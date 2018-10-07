@@ -1,0 +1,2 @@
+# awesome-terminals
+Terminal Emulators
