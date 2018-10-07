@@ -3,6 +3,7 @@ Terminal Emulators
 
 ## Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
@@ -12,10 +13,12 @@ Terminal Emulators
 - [Tilix](https://gnunn1.github.io/tilix-web/) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
+- [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
 
 ## MacOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Cathode](http://www.secretgeometry.com/apps/cathode/) - VINTAGE TERMINAL.
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
