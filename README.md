@@ -7,6 +7,10 @@ Terminal Emulators
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
+- [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt.
+- [Sakura](https://launchpad.net/sakura) - Sakura is a terminal emulator based just on GTK and VTE.
+- [st](https://st.suckless.org/) - st is a simple terminal implementation for X.
+- [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 - [Termite](https://github.com/thestinger/termite/) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
@@ -24,6 +28,7 @@ Terminal Emulators
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
+- [Treeterm](http://www.treeterm.com/) - TreeTerm is a combination of a file manager and terminal for the mac.
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
@@ -31,6 +36,7 @@ Terminal Emulators
 ## Windows
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.
+- [Console](https://sourceforge.net/projects/console/) - Console is a Windows console window enhancement.
 - [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of Console project.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
