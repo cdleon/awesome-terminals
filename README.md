@@ -61,6 +61,7 @@ Terminal Emulators
 
 ## Tools
 ### Bash
+ - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
  - [Desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
  - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+
