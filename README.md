@@ -61,11 +61,11 @@ Terminal Emulators
 
 ## Tools
 ### Bash
- - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
- - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
  - [Desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
+ - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
  - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+
  - [ScreenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+ - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
 ### Go
  - [FZF](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [Termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
