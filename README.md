@@ -56,6 +56,7 @@ Terminal Emulators
  - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 ### sh
  - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more.
+ - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 
 ## Tools
