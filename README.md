@@ -70,6 +70,8 @@ Terminal Emulators
  - [Termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
 ### PowerShell
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
+### Rust
+ - [LSD (LSDeluxe)](https://github.com/Peltoche/lsd) - The next gen ls command.
 ### sh
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱
  - [Git Goodies](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
