@@ -75,3 +75,5 @@ Terminal Emulators
  - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
  - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
+### sh (macOS)
+ - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X
