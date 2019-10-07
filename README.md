@@ -66,6 +66,9 @@ Terminal Emulators
  - [Desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
  - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+
  - [ScreenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+### Go
+ - [FZF](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+ - [Termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
 ### PowerShell
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
 ### sh
