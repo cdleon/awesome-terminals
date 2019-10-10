@@ -15,6 +15,7 @@ Terminal Emulators
 - [st](https://st.suckless.org/) - st is a simple terminal implementation for X.
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
+- [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. [https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
 - [Termit](https://github.com/nonstop/termit) - Terminal emulator based on VTE library with Lua scripting.
 - [Termite](https://github.com/thestinger/termite/) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
@@ -34,20 +35,27 @@ Terminal Emulators
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Termbar](http://termbar.com/) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
+- [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. [https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
 - [Treeterm](http://www.treeterm.com/) - TreeTerm is a combination of a file manager and terminal for the mac.
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
+
+## Web
+ - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
 
 ## Windows
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.
 - [Console](https://sourceforge.net/projects/console/) - Console is a Windows console window enhancement.
 - [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of Console project.
+- [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+- [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. [https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
+- [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ## Guides
@@ -67,11 +75,20 @@ Terminal Emulators
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
 ### Go
  - [FZF](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+ - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
+ - [Sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
  - [Termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
+### Node
+ - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
+ - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
 ### PowerShell
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
+### Python
+ - [Soccer CLI](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
 ### Rust
+ - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
  - [LSD (LSDeluxe)](https://github.com/Peltoche/lsd) - The next gen ls command.
+ - [Pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
 ### sh
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱
  - [Git Goodies](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
