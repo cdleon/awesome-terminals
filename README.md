@@ -84,6 +84,7 @@ Terminal Emulators
 ### PowerShell
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
 ### Python
+ - [Face Recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
  - [Soccer CLI](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
 ### Rust
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
