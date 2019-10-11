@@ -73,6 +73,8 @@ Terminal Emulators
  - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+
  - [ScreenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
+### C
+ - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
 ### Go
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [FZF](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
