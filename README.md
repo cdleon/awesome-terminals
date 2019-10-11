@@ -60,14 +60,6 @@ Terminal Emulators
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
-## Guides
-### Bash
- - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
- - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
-### sh
- - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more.
- - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
-
 ## Tools
 ### Bash
  - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
@@ -136,3 +128,11 @@ Terminal Emulators
  - [mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface.
  - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
+ 
+## Guides
+### Bash
+ - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+ - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+### sh
+ - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more.
+ - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
