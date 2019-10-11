@@ -69,12 +69,16 @@ Terminal Emulators
 ## Tools
 ### Bash
  - [Desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
+ - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
+ - [Git Goodies](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
  - [Neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+
  - [ScreenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
 ### C
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
+### CMD
+ - [Git Goodies](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [FZF](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
@@ -95,8 +99,6 @@ Terminal Emulators
  - [Pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
  - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
 ### sh
- - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱
- - [Git Goodies](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
  - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. 
  - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
  - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
