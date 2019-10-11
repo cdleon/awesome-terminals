@@ -72,9 +72,12 @@ Terminal Emulators
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
- - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+
+ - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. 
+ - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
+ - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
  - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
+ - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 ### C
  - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
  - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
@@ -101,6 +104,7 @@ Terminal Emulators
  - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
  - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. 
  - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
+ - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
  - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
@@ -120,11 +124,7 @@ Terminal Emulators
  - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust. 
 ### sh
- - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. 
- - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
- - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
- - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
  - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 ### sh (macOS)
  - [mac](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. 
