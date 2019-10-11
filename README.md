@@ -74,6 +74,7 @@ Terminal Emulators
  - [ScreenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
 ### Go
+ - [ccat](git@gitlab.com:cdleon/dotfiles.git) - Colorizing `cat` [https://github.com/jingweno/ccat](https://github.com/jingweno/ccat)
  - [FZF](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
  - [Sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
@@ -90,6 +91,7 @@ Terminal Emulators
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
  - [LSD (LSDeluxe)](https://github.com/Peltoche/lsd) - The next gen ls command.
  - [Pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
+ - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
 ### sh
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱
  - [Git Goodies](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
