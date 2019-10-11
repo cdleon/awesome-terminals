@@ -76,28 +76,49 @@ Terminal Emulators
  - [ScreenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
 ### C
+ - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+ - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
 ### CMD
  - [Git Goodies](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
- - [FZF](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+ - [devd](https://github.com/cortesi/devd) - A local webserver for developers.
+ - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+ - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
+ - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
- - [Sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
- - [Termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
+ - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+ - [ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
+ - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+ - [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
+ - [scc](https://github.com/boyter/scc) -  Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.
+ - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
+### Haskell
+ - [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
+ - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter [https://pandoc.org](https://pandoc.org)
 ### Node
  - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
+ - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. 
+ - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
+ - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
+ - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
 ### PowerShell
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
 ### Python
+ - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 [https://asciinema.org](https://asciinema.org)
  - [Face Recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
+ - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. [https://httpie.org](https://httpie.org)
  - [Soccer CLI](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
 ### Rust
+ - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. 
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
- - [LSD (LSDeluxe)](https://github.com/Peltoche/lsd) - The next gen ls command.
- - [Pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
+ - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
+ - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
+ - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
  - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
+ - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust. 
 ### sh
  - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. 
  - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
@@ -106,4 +127,7 @@ Terminal Emulators
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
  - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 ### sh (macOS)
- - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X
+ - [mac](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. 
+ - [mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface.
+ - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
+ - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
