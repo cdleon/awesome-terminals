@@ -74,7 +74,7 @@ Terminal Emulators
  - [ScreenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
 ### Go
- - [ccat](git@gitlab.com:cdleon/dotfiles.git) - Colorizing `cat` [https://github.com/jingweno/ccat](https://github.com/jingweno/ccat)
+ - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [FZF](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
  - [Sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
