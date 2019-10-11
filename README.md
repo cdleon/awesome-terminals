@@ -83,12 +83,14 @@ Terminal Emulators
 ### C
  - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
  - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
+ - [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
 ### CMD
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [devd](https://github.com/cortesi/devd) - A local webserver for developers.
+ - [direnv](https://github.com/direnv/direnv) - unclutter your .profile [http://direnv.net](http://direnv.net)
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
@@ -124,6 +126,7 @@ Terminal Emulators
  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
  - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
  - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
+ - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust. 
 ### sh
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
