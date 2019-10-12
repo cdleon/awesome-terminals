@@ -114,6 +114,7 @@ Terminal Emulators
 ### Python
  - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 [https://asciinema.org](https://asciinema.org)
  - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
+ - [fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. 
  - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. [https://httpie.org](https://httpie.org)
  - [soccer](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
 ### Rust
