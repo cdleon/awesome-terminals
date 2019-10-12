@@ -44,6 +44,7 @@ Terminal Emulators
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ## Web
+ - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
 
 ## Windows
@@ -75,8 +76,12 @@ Terminal Emulators
 ### C
  - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
  - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
+ - [jo](https://github.com/jpmens/jo) - JSON output from a shell. [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
+ - [jq](https://github.com/stedolan/jq) - Command-line JSON processor. [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
+ - [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).
  - [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
+ - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm [http://www.zstd.net](http://www.zstd.net)
 ### CMD
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
