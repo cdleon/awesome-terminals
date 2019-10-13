@@ -90,7 +90,11 @@ Terminal Emulators
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm [http://www.zstd.net](http://www.zstd.net)
 ### C++
  - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder.
+ - [mazegen](https://github.com/razimantv/mazegenerator) - Generate mazes of different shapes and arbitrary sizes.
+ - [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library [http://www.openalpr.com](http://www.openalpr.com)
  - [timg](https://github.com/hzeller/timg) - A terminal image viewer.
+ - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change. [https://facebook.github.io/watchman/](https://facebook.github.io/watchman/)
+ - [zindex](https://github.com/mattgodbolt/zindex) - Create an index on a compressed text file.
 ### CMD
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
