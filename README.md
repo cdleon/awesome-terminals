@@ -77,14 +77,20 @@ Terminal Emulators
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 ### C
+ - [hashcat](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility.
  - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
  - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
  - [jo](https://github.com/jpmens/jo) - JSON output from a shell. [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
  - [jq](https://github.com/stedolan/jq) - Command-line JSON processor. [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
+ - [mptun](https://github.com/cloudwu/mptun) - Multi-path Tunnel.
  - [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).
  - [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
+ - [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm [http://www.zstd.net](http://www.zstd.net)
+### C++
+ - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder.
+ - [timg](https://github.com/hzeller/timg) - A terminal image viewer.
 ### CMD
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
@@ -94,7 +100,10 @@ Terminal Emulators
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
+ - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster. [https://hostyoself.com](https://hostyoself.com)
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
+ - [inlets](https://github.com/alexellis/inlets) -  Expose your local endpoints to the Internet. [https://blog.alexellis.io/https-inlets-local-endpoints/](https://blog.alexellis.io/https-inlets-local-endpoints/)
+ - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. [https://mkcert.dev](https://mkcert.dev)
  - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
  - [ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
  - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
@@ -113,6 +122,7 @@ Terminal Emulators
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
  - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
+ - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl.
 ### PowerShell
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
 ### Python
@@ -122,7 +132,8 @@ Terminal Emulators
  - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. [https://httpie.org](https://httpie.org)
  - [soccer](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
 ### Rust
- - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. 
+ - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+ - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
  - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
