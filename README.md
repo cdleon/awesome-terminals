@@ -135,12 +135,14 @@ Terminal Emulators
  - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
  - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
+ - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
+ - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
  - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
  - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
- - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
+ - [rg](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
  - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
- - [](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts. [https://starship.rs](https://starship.rs)
+ - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts. [https://starship.rs](https://starship.rs)
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust. 
 ### sh
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
