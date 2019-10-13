@@ -109,6 +109,7 @@ Terminal Emulators
  - [inlets](https://github.com/alexellis/inlets) -  Expose your local endpoints to the Internet. [https://blog.alexellis.io/https-inlets-local-endpoints/](https://blog.alexellis.io/https-inlets-local-endpoints/)
  - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. [https://mkcert.dev](https://mkcert.dev)
  - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+ - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
  - [ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
  - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
  - [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
@@ -120,7 +121,9 @@ Terminal Emulators
 ### Node
  - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
  - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. 
+ - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
  - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
+ - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
  - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes. [http://rtail.org](http://rtail.org)
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
@@ -135,6 +138,10 @@ Terminal Emulators
  - [fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. 
  - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. [https://httpie.org](https://httpie.org)
  - [soccer](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
+### Ruby
+ - [hibp](https://github.com/michenriksen/hibp) - A simple tool to check a bunch of email addresses against the Have I Been Pwned API. [https://rubygems.org/gems/hibp](https://rubygems.org/gems/hibp)
+ - [htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers. [http://htty.github.io](http://htty.github.io)
+ - [tmuxinator](https://github.com/tmuxinator/tmuxinator) -  Manage complex tmux sessions easily.
 ### Rust
  - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
  - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
