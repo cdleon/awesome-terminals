@@ -109,6 +109,7 @@ Terminal Emulators
  - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. 
  - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
  - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
+ - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes. [http://rtail.org](http://rtail.org)
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
  - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
