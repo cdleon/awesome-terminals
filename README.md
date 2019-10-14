@@ -149,10 +149,26 @@ Terminal Emulators
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
 ### Python
  - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 [https://asciinema.org](https://asciinema.org)
+ - [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data. [http://datasette.readthedocs.io/](http://datasette.readthedocs.io/)
  - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
- - [fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. 
+ - [fpp](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. [http://facebook.github.io/PathPicker/](http://facebook.github.io/PathPicker/)
+ - [fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+ - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
  - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. [https://httpie.org](https://httpie.org)
+ - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting. [http://http-prompt.com](http://http-prompt.com)
+ - [itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm.
+ - [jungle](https://github.com/achiku/jungle) - AWS operations by cli should be simpler.
+ - [legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks.
+ - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites. [http://wummel.github.io/linkchecker/](http://wummel.github.io/linkchecker/)
+ - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. [http://mycli.net](http://mycli.net)
+ - [rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes.
  - [soccer](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
+ - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
+ - [stellar](https://github.com/fastmonkeys/stellar) - Fast database snapshot and restore tool for development.
+ - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages [https://tldr.sh](https://tldr.sh)
+ - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework [https://wifiphisher.org](https://wifiphisher.org)
+ - [you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web [https://you-get.org/](https://you-get.org/)
+ - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites [http://ytdl-org.github.io/youtube-dl/](http://ytdl-org.github.io/youtube-dl/)
 ### Ruby
  - [hibp](https://github.com/michenriksen/hibp) - A simple tool to check a bunch of email addresses against the Have I Been Pwned API. [https://rubygems.org/gems/hibp](https://rubygems.org/gems/hibp)
  - [htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers. [http://htty.github.io](http://htty.github.io)
