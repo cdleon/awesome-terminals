@@ -102,22 +102,33 @@ Terminal Emulators
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
+ - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. 
  - [devd](https://github.com/cortesi/devd) - A local webserver for developers.
- - [direnv](https://github.com/direnv/direnv) - unclutter your .profile [http://direnv.net](http://direnv.net)
+ - [direnv](https://github.com/direnv/direnv) - unclutter your .profile. [http://direnv.net](http://direnv.net)
+ - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
+ - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
+ - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
  - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster. [https://hostyoself.com](https://hostyoself.com)
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
+ - [hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
  - [inlets](https://github.com/alexellis/inlets) -  Expose your local endpoints to the Internet. [https://blog.alexellis.io/https-inlets-local-endpoints/](https://blog.alexellis.io/https-inlets-local-endpoints/)
  - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. [https://mkcert.dev](https://mkcert.dev)
+ - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels [https://davrodpin.github.io/mole/](https://davrodpin.github.io/mole/)
  - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
  - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
  - [ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
  - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+ - [rtop](https://github.com/rapidloop/rtop) -  rtop is an interactive, remote system monitoring tool based on SSH. [http://www.rtop-monitor.org/](http://www.rtop-monitor.org/)
  - [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
  - [scc](https://github.com/boyter/scc) -  Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.
+ - [switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port.
  - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
+ - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC [https://maxmcd.github.io/webtty/](https://maxmcd.github.io/webtty/)
+ - [wego](https://github.com/schachmat/wego) -  weather app for the terminal.
+ - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal. [http://wtfutil.com](http://wtfutil.com)
 ### Haskell
  - [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
  - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter [https://pandoc.org](https://pandoc.org)
