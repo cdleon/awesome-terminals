@@ -112,6 +112,7 @@ Terminal Emulators
  - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
+ - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. [https://goaccess.io](https://goaccess.io)
  - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
  - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
  - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster. [https://hostyoself.com](https://hostyoself.com)
