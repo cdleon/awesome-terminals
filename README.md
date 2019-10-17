@@ -78,11 +78,13 @@ Terminal Emulators
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
  - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. 
  - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
+ - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. [http://denilsonsa.github.io/prettyping](http://denilsonsa.github.io/prettyping)
  - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
  - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 ### C
+ - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
  - [hashcat](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility.
  - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
  - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
@@ -105,6 +107,7 @@ Terminal Emulators
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
+ - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies. [https://cointop.sh](https://cointop.sh)
  - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. 
  - [devd](https://github.com/cortesi/devd) - A local webserver for developers.
  - [direnv](https://github.com/direnv/direnv) - unclutter your .profile. [http://direnv.net](http://direnv.net)
@@ -142,11 +145,12 @@ Terminal Emulators
  - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. 
  - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
  - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
- - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
+ - [hn](https://github.com/rafaelrinaldi/hn-cli) - 📰 CLI to browse Hacker News 
  - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes. [http://rtail.org](http://rtail.org)
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
+ - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
  - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
  - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl.
 ### PowerShell
@@ -157,7 +161,9 @@ Terminal Emulators
  - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
  - [fpp](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. [http://facebook.github.io/PathPicker/](http://facebook.github.io/PathPicker/)
  - [fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+ - [hn](https://github.com/donnemartin/haxor-news) -  Browse Hacker News like a haxor: A Hacker News command line interface (CLI). 
  - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
+ - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. [http://nicolargo.github.io/glances/](http://nicolargo.github.io/glances/)
  - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. [https://httpie.org](https://httpie.org)
  - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting. [http://http-prompt.com](http://http-prompt.com)
  - [itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm.
