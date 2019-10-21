@@ -114,6 +114,7 @@ Terminal Emulators
  - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
  - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+ - [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. [https://goaccess.io](https://goaccess.io)
  - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
