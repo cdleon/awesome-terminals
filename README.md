@@ -1,6 +1,9 @@
 # awesome-terminals
 Terminal Emulators
 
+## Android
+- [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
+
 ## Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Animal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go.
