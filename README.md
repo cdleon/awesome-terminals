@@ -4,6 +4,9 @@ Terminal Emulators
 ## Android
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 
+## iOS
+- [ish](https://github.com/tbodt/ish) - Linux shell for iOS. [https://ish.app](https://ish.app)
+
 ## Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Animal](https://github.com/liamg/aminal) - A modern cross-platform terminal emulator in Go.
@@ -96,6 +99,7 @@ Terminal Emulators
  - [mptun](https://github.com/cloudwu/mptun) - Multi-path Tunnel.
  - [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).
  - [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
+ - [smenu](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing. 
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
  - [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm [http://www.zstd.net](http://www.zstd.net)
@@ -146,14 +150,19 @@ Terminal Emulators
  - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter [https://pandoc.org](https://pandoc.org)
 ### Node
  - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
- - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform. 
+ - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6.
+ - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
+ - [football](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football.
  - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
  - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
- - [hn](https://github.com/rafaelrinaldi/hn-cli) - 📰 CLI to browse Hacker News 
- - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
+ - [hn](https://github.com/rafaelrinaldi/hn-cli) - 📰 CLI to browse Hacker News.
+ - [nativefier](https://github.com/jiahaog/nativefier) -  Make any web page a desktop application.
+ - [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs.
+ - [readme](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes. [http://rtail.org](http://rtail.org)
  - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line. 
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
+ - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal 💻.
  - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
  - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
  - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
