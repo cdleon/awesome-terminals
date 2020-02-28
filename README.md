@@ -103,6 +103,7 @@ Terminal Emulators
  - [smenu](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing. 
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
  - [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
+ - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm [http://www.zstd.net](http://www.zstd.net)
 ### C++
  - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder.
@@ -131,6 +132,7 @@ Terminal Emulators
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
  - [hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
  - [inlets](https://github.com/alexellis/inlets) -  Expose your local endpoints to the Internet. [https://blog.alexellis.io/https-inlets-local-endpoints/](https://blog.alexellis.io/https-inlets-local-endpoints/)
+ - [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
  - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. [https://mkcert.dev](https://mkcert.dev)
  - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels [https://davrodpin.github.io/mole/](https://davrodpin.github.io/mole/)
  - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
@@ -201,6 +203,7 @@ Terminal Emulators
  - [htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers. [http://htty.github.io](http://htty.github.io)
  - [tmuxinator](https://github.com/tmuxinator/tmuxinator) -  Manage complex tmux sessions easily.
 ### Rust
+ - [atm](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.[http://allthemusic.info](http://allthemusic.info)
  - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
  - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
