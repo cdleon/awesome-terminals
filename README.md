@@ -197,6 +197,7 @@ Terminal Emulators
  - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework [https://wifiphisher.org](https://wifiphisher.org)
  - [you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web [https://you-get.org/](https://you-get.org/)
  - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites [http://ytdl-org.github.io/youtube-dl/](http://ytdl-org.github.io/youtube-dl/)
+ - [yts](https://github.com/darkHarry/yts-cli) - A Python script to download yts movies with the help of transmission-gtk torrent client.
 ### Ruby
  - [facebook-cli](https://github.com/specious/facebook-cli) - 💻 Facebook command line tool [https://asciinema.org/a/87129](https://asciinema.org/a/87129)
  - [hibp](https://github.com/michenriksen/hibp) - A simple tool to check a bunch of email addresses against the Have I Been Pwned API. [https://rubygems.org/gems/hibp](https://rubygems.org/gems/hibp)
