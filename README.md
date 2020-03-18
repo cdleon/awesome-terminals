@@ -212,6 +212,7 @@ Terminal Emulators
  - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
  - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
+ - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
  - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
  - [rg](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
  - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
