@@ -194,6 +194,7 @@ Terminal Emulators
  - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
  - [stellar](https://github.com/fastmonkeys/stellar) - Fast database snapshot and restore tool for development.
  - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages [https://tldr.sh](https://tldr.sh)
+ - [td](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️ [https://pypi.org/project/td-cli/](https://pypi.org/project/td-cli/)
  - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework [https://wifiphisher.org](https://wifiphisher.org)
  - [you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web [https://you-get.org/](https://you-get.org/)
  - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites [http://ytdl-org.github.io/youtube-dl/](http://ytdl-org.github.io/youtube-dl/)
