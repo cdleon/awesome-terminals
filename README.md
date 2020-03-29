@@ -30,6 +30,7 @@ Terminal Emulators
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://gnunn1.github.io/tilix-web/) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 - [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
@@ -53,6 +54,7 @@ Terminal Emulators
 - [Treeterm](http://www.treeterm.com/) - TreeTerm is a combination of a file manager and terminal for the mac.
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ## Web
@@ -74,6 +76,7 @@ Terminal Emulators
 - [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
 - [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. [https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
+- [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
