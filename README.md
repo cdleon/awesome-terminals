@@ -162,6 +162,7 @@ Terminal Emulators
  - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
  - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal.
  - [hn](https://github.com/rafaelrinaldi/hn-cli) - 📰 CLI to browse Hacker News.
+ - [moro](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours [https://moro.js.org/](https://moro.js.org/)
  - [nativefier](https://github.com/jiahaog/nativefier) -  Make any web page a desktop application.
  - [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs.
  - [readme](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
