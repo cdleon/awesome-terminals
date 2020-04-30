@@ -82,6 +82,7 @@ Terminal Emulators
 
 ## Tools
 ### Bash
+ - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
  - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
@@ -140,6 +141,7 @@ Terminal Emulators
  - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels [https://davrodpin.github.io/mole/](https://davrodpin.github.io/mole/)
  - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
  - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
+ - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. [https://claudiodangelis.com/qrcp](https://claudiodangelis.com/qrcp)
  - [ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
  - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
  - [rtop](https://github.com/rapidloop/rtop) -  rtop is an interactive, remote system monitoring tool based on SSH. [http://www.rtop-monitor.org/](http://www.rtop-monitor.org/)
