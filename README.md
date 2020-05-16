@@ -18,6 +18,7 @@ Terminal Emulators
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
+- [Notty](https://github.com/withoutboats/notty) - A new kind of terminal.
 - [ROXTerm](http://roxterm.sourceforge.net/) - ROXTerm is a terminal emulator intended to provide similar features to gnome-terminal, based on the same VTE library.
 - [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt.
 - [Sakura](https://launchpad.net/sakura) - Sakura is a terminal emulator based just on GTK and VTE.
