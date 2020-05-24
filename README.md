@@ -244,4 +244,5 @@ Terminal Emulators
 ### sh
  - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol. [https://acme.sh](https://acme.sh)
  - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) - From finding text to search and replace, from sorting to beautifying text and more.
+ - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
  - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
