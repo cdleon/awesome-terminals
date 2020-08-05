@@ -88,6 +88,7 @@ Terminal Emulators
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
+ - [has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
  - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. 
  - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
  - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. [http://denilsonsa.github.io/prettyping](http://denilsonsa.github.io/prettyping)
@@ -108,6 +109,7 @@ Terminal Emulators
  - [smenu](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing. 
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
  - [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
+ - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
  - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm [http://www.zstd.net](http://www.zstd.net)
 ### C++
@@ -173,6 +175,7 @@ Terminal Emulators
  - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line. 
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal 💻.
+ - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player.
  - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
  - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
  - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
@@ -218,6 +221,7 @@ Terminal Emulators
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
  - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
  - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
+ - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
  - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
  - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
