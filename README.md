@@ -225,21 +225,31 @@ Terminal Emulators
  - [tmuxinator](https://github.com/tmuxinator/tmuxinator) -  Manage complex tmux sessions easily.
 ### Rust
  - [atm](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.[http://allthemusic.info](http://allthemusic.info)
+ - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
  - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+ - [btm](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
  - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
+ - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
+ - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
  - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
+ - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
  - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
  - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
  - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
  - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
  - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
+ - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
  - [rg](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
  - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
+ - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
  - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts. [https://starship.rs](https://starship.rs)
+ - [tldr](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+ - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
  - [tre](https://github.com/dduan/tre) - Tree command, improved.
- - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust. 
+ - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+ - [z](A faster way to navigate your filesystem) - A faster way to navigate your filesystem.
 ### sh
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
  - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
