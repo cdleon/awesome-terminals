@@ -125,12 +125,15 @@ Terminal Emulators
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies. [https://cointop.sh](https://cointop.sh)
  - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. 
+ - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦.
  - [devd](https://github.com/cortesi/devd) - A local webserver for developers.
  - [direnv](https://github.com/direnv/direnv) - unclutter your .profile. [http://direnv.net](http://direnv.net)
  - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
+ - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
  - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.
+ - [gh](https://github.com/cli/cli) - GitHub’s official command line tool
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. [https://goaccess.io](https://goaccess.io)
  - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
@@ -141,6 +144,7 @@ Terminal Emulators
  - [inlets](https://github.com/alexellis/inlets) -  Expose your local endpoints to the Internet. [https://blog.alexellis.io/https-inlets-local-endpoints/](https://blog.alexellis.io/https-inlets-local-endpoints/)
  - [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
  - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. [https://mkcert.dev](https://mkcert.dev)
+ - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor. [https://micro-editor.github.io/](https://micro-editor.github.io/)
  - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels [https://davrodpin.github.io/mole/](https://davrodpin.github.io/mole/)
  - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
  - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
@@ -175,6 +179,7 @@ Terminal Emulators
  - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line. 
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal 💻.
+ - [splash](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
  - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player.
  - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
  - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
@@ -196,6 +201,7 @@ Terminal Emulators
  - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting. [http://http-prompt.com](http://http-prompt.com)
  - [itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm.
  - [jungle](https://github.com/achiku/jungle) - AWS operations by cli should be simpler.
+ - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager.
  - [legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks.
  - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites. [http://wummel.github.io/linkchecker/](http://wummel.github.io/linkchecker/)
  - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. [http://mycli.net](http://mycli.net)
