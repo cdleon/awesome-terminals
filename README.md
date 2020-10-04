@@ -118,6 +118,7 @@ Terminal Emulators
  - [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library [http://www.openalpr.com](http://www.openalpr.com)
  - [timg](https://github.com/hzeller/timg) - A terminal image viewer.
  - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change. [https://facebook.github.io/watchman/](https://facebook.github.io/watchman/)
+ - [winget](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget).
  - [zindex](https://github.com/mattgodbolt/zindex) - Create an index on a compressed text file.
 ### CMD
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
