@@ -81,6 +81,11 @@ Terminal Emulators
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
+## Shells
+- [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [GNU Bash](https://git.savannah.gnu.org/cgit/bash.git/) - Bash is the GNU Project's Bourne Again SHell, a complete implementation of the POSIX shell spec.
+- [Nu Shell](https://github.com/nushell/nushell) - A new type of shell.
+
 ## Tools
 ### Bash
  - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
