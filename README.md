@@ -34,6 +34,7 @@ Terminal Emulators
 - [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 - [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
+- [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
 
 ### MacOS
@@ -90,6 +91,7 @@ Terminal Emulators
 ### Bash
  - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
  - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
+ - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
@@ -103,6 +105,7 @@ Terminal Emulators
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 ### C
  - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
+ - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
  - [hashcat](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility.
  - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
  - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
@@ -170,6 +173,7 @@ Terminal Emulators
 ### Haskell
  - [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
  - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter [https://pandoc.org](https://pandoc.org)
+ - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts. [https://www.shellcheck.net/](https://www.shellcheck.net/)
 ### Node
  - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
  - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6.
@@ -258,6 +262,7 @@ Terminal Emulators
  - [z](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 ### sh
  - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script. [https://xwmx.github.io/nb/](https://xwmx.github.io/nb/)
+ - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. 
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
  - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
  - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on terminal screen!
