@@ -269,6 +269,9 @@ Terminal Emulators
  - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
  
+## Dotfiles
+ - [dots](https://github.com/safinsingh/dots) - My dotfiles for Arch Linux and awesomeWM.
+
 ## Guides
 ### Bash
  - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
