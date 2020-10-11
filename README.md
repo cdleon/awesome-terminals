@@ -160,6 +160,7 @@ Terminal Emulators
  - [rtop](https://github.com/rapidloop/rtop) -  rtop is an interactive, remote system monitoring tool based on SSH. [http://www.rtop-monitor.org/](http://www.rtop-monitor.org/)
  - [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
  - [scc](https://github.com/boyter/scc) -  Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.
+ - [screego](https://github.com/screego/server) - Screen sharing for developers. [https://screego.net/](https://screego.net/)
  - [switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port.
  - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
  - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
@@ -256,6 +257,7 @@ Terminal Emulators
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
  - [z](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
 ### sh
+ - [](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script. [https://xwmx.github.io/nb/](https://xwmx.github.io/nb/)
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
  - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
  - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on terminal screen!
