@@ -270,6 +270,9 @@ Terminal Emulators
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
  
 ## Dotfiles
+ - [~/.dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide.
+ - [dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files.
+ - [dotfiles](https://github.com/NerdyPepper/dotfiles) - Files that define my GNU/Linux box.
  - [dots](https://github.com/safinsingh/dots) - My dotfiles for Arch Linux and awesomeWM.
 
 ## Guides
