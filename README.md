@@ -131,6 +131,7 @@ Terminal Emulators
 ### CMD
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
+ - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies. [https://cointop.sh](https://cointop.sh)
  - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. 
@@ -144,6 +145,7 @@ Terminal Emulators
  - [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.
  - [gh](https://github.com/cli/cli) - GitHub’s official command line tool
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
+ - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
  - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. [https://goaccess.io](https://goaccess.io)
  - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
  - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
@@ -260,6 +262,7 @@ Terminal Emulators
  - [tre](https://github.com/dduan/tre) - Tree command, improved.
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
  - [z](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
+ - [zenith](https://github.com/bvaisvil/zenith) - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage.
 ### sh
  - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script. [https://xwmx.github.io/nb/](https://xwmx.github.io/nb/)
  - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. 
