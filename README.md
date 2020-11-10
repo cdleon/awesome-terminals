@@ -31,7 +31,7 @@ Terminal Emulators
 - [Termite](https://github.com/thestinger/termite/) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://gnunn1.github.io/tilix-web/) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
-- [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 - [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
