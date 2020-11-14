@@ -56,7 +56,7 @@ Terminal Emulators
 - [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. [https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
 - [Treeterm](http://www.treeterm.com/) - TreeTerm is a combination of a file manager and terminal for the mac.
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
-- [Upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+- [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
