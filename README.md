@@ -243,6 +243,7 @@ Terminal Emulators
  - [btm](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
  - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
  - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
+ - [eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal.
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
  - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
