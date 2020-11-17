@@ -114,6 +114,7 @@ Terminal Emulators
  - [jo](https://github.com/jpmens/jo) - JSON output from a shell. [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
  - [jq](https://github.com/stedolan/jq) - Command-line JSON processor. [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
  - [mptun](https://github.com/cloudwu/mptun) - Multi-path Tunnel.
+ - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
  - [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).
  - [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
  - [smenu](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing. 
