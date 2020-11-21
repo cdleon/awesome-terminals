@@ -249,6 +249,7 @@ Terminal Emulators
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
  - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
+ - [gping](https://github.com/orf/gping) - Ping, but with a graph.
  - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
  - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
  - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
