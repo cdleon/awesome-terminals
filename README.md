@@ -205,7 +205,8 @@ Terminal Emulators
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
 ### Python
  - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 [https://asciinema.org](https://asciinema.org)
- - [bpytop]() - Linux/OSX/FreeBSD resource monitor.
+ - [bashhub](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable. [https://bashhub.com](https://bashhub.com)
+ - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
  - [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data. [http://datasette.readthedocs.io/](http://datasette.readthedocs.io/)
  - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
  - [fpp](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. [http://facebook.github.io/PathPicker/](http://facebook.github.io/PathPicker/)
@@ -227,6 +228,7 @@ Terminal Emulators
  - [soccer](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
  - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
  - [stellar](https://github.com/fastmonkeys/stellar) - Fast database snapshot and restore tool for development.
+ - [termius](https://github.com/termius/termius-cli) - CLI for the ssh client Termius [https://termius.com](https://termius.com).
  - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages [https://tldr.sh](https://tldr.sh)
  - [td](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️ [https://pypi.org/project/td-cli/](https://pypi.org/project/td-cli/)
  - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework [https://wifiphisher.org](https://wifiphisher.org)
