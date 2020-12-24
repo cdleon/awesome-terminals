@@ -92,6 +92,7 @@ Terminal Emulators
 ## Tools
 ### Bash
  - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
+ - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
  - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
  - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
@@ -106,6 +107,7 @@ Terminal Emulators
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 ### C
+ - [afetch](https://github.com/13-CF/afetch) - Simple system info written in C
  - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
  - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
  - [hashcat](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility.
@@ -134,6 +136,7 @@ Terminal Emulators
 ### CMD
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
+ - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3.
  - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies. [https://cointop.sh](https://cointop.sh)
