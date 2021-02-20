@@ -63,6 +63,7 @@ Terminal Emulators
 
 ### Web
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
+ - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
 
 ### Windows
@@ -130,6 +131,7 @@ Terminal Emulators
  - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder.
  - [mazegen](https://github.com/razimantv/mazegenerator) - Generate mazes of different shapes and arbitrary sizes.
  - [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library [http://www.openalpr.com](http://www.openalpr.com)
+ - [timew](https://github.com/GothenburgBitFactory/timewarrior) - Commandline Time Reporting
  - [timg](https://github.com/hzeller/timg) - A terminal image viewer.
  - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change. [https://facebook.github.io/watchman/](https://facebook.github.io/watchman/)
  - [winget](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget).
@@ -175,6 +177,7 @@ Terminal Emulators
  - [screego](https://github.com/screego/server) - Screen sharing for developers. [https://screego.net/](https://screego.net/)
  - [switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port.
  - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
+ - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking.
  - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
  - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC [https://maxmcd.github.io/webtty/](https://maxmcd.github.io/webtty/)
  - [wego](https://github.com/schachmat/wego) -  weather app for the terminal.
@@ -211,6 +214,7 @@ Terminal Emulators
  - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 [https://asciinema.org](https://asciinema.org)
  - [bashhub](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable. [https://bashhub.com](https://bashhub.com)
  - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
+ - [buku](https://github.com/jarun/buku) - Browser-independent bookmark manager
  - [datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data. [http://datasette.readthedocs.io/](http://datasette.readthedocs.io/)
  - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
  - [fpp](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. [http://facebook.github.io/PathPicker/](http://facebook.github.io/PathPicker/)
@@ -271,6 +275,7 @@ Terminal Emulators
  - [tldr](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
  - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
  - [tre](https://github.com/dduan/tre) - Tree command, improved.
+ - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
  - [z](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
  - [zenith](https://github.com/bvaisvil/zenith) - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage.
@@ -280,6 +285,7 @@ Terminal Emulators
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
  - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
  - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on terminal screen!
+ - [tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 ### sh (macOS)
  - [lsusb](https://github.com/jlhonora/lsusb) - lsusb command for Mac OS X.
  - [mac](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. 
@@ -287,12 +293,15 @@ Terminal Emulators
  - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
  - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
+### Swift
+ - [trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash.
  
 ## Dotfiles
  - [~/.dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide.
  - [dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files.
  - [dotfiles](https://github.com/NerdyPepper/dotfiles) - Files that define my GNU/Linux box.
  - [dots](https://github.com/safinsingh/dots) - My dotfiles for Arch Linux and awesomeWM.
+ - [dots](https://github.com/Who23/dots) - My macOS dots :)
 
 ## Guides
 ### Bash
