@@ -156,7 +156,7 @@ Terminal Emulators
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
  - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. [https://goaccess.io](https://goaccess.io)
- - [gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop.
+ - [gotop](https://github.com/cjbassi/gotop) - **[DEPRECATED]** A terminal based graphical activity monitor inspired by gtop and vtop.
  - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
  - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster. [https://hostyoself.com](https://hostyoself.com)
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
