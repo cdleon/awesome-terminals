@@ -302,6 +302,7 @@ Terminal Emulators
  - [dotfiles](https://github.com/NerdyPepper/dotfiles) - Files that define my GNU/Linux box.
  - [dots](https://github.com/safinsingh/dots) - My dotfiles for Arch Linux and awesomeWM.
  - [dots](https://github.com/Who23/dots) - My macOS dots :)
+ - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 
 ## Guides
 ### Bash
