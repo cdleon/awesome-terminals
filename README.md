@@ -128,6 +128,7 @@ Terminal Emulators
  - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm [http://www.zstd.net](http://www.zstd.net)
 ### C++
+ - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software 🖥️ 📸.
  - [guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder.
  - [mazegen](https://github.com/razimantv/mazegenerator) - Generate mazes of different shapes and arbitrary sizes.
  - [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library [http://www.openalpr.com](http://www.openalpr.com)
