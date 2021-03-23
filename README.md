@@ -230,12 +230,14 @@ Terminal Emulators
  - [legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks.
  - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites. [http://wummel.github.io/linkchecker/](http://wummel.github.io/linkchecker/)
  - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. [http://mycli.net](http://mycli.net)
+ - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
  - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects. [https://present.readthedocs.io/en/latest/](https://present.readthedocs.io/en/latest/)
  - [py](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line.
  - [rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes.
  - [soccer](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
  - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
  - [stellar](https://github.com/fastmonkeys/stellar) - Fast database snapshot and restore tool for development.
+ - [repk](https://github.com/rahulunair/repo-peek) - open a remote repo locally quickly
  - [termius](https://github.com/termius/termius-cli) - CLI for the ssh client Termius [https://termius.com](https://termius.com).
  - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages [https://tldr.sh](https://tldr.sh)
  - [td](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️ [https://pypi.org/project/td-cli/](https://pypi.org/project/td-cli/)
