@@ -198,6 +198,7 @@ Terminal Emulators
  - [hn](https://github.com/rafaelrinaldi/hn-cli) - 📰 CLI to browse Hacker News.
  - [moro](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours [https://moro.js.org/](https://moro.js.org/)
  - [nativefier](https://github.com/jiahaog/nativefier) -  Make any web page a desktop application.
+ - [pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs.
  - [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs.
  - [readme](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [resume](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume.
