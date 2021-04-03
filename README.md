@@ -89,6 +89,7 @@ Terminal Emulators
 - [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [GNU Bash](https://git.savannah.gnu.org/cgit/bash.git/) - Bash is the GNU Project's Bourne Again SHell, a complete implementation of the POSIX shell spec.
 - [Nu Shell](https://github.com/nushell/nushell) - A new type of shell.
+- [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## Tools
 ### Bash
