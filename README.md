@@ -150,6 +150,7 @@ Terminal Emulators
  - [direnv](https://github.com/direnv/direnv) - unclutter your .profile. [http://direnv.net](http://direnv.net)
  - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
  - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility.
+ - [frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
  - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.
