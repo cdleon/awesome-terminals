@@ -98,6 +98,7 @@ Terminal Emulators
  - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
  - [dn](https://github.com/tomlockwood/dn) - Daily notes command line tool
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
+ - [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
  - [has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
