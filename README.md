@@ -127,6 +127,7 @@ Terminal Emulators
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
  - [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
  - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
+ - [vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt. [https://github.com/vifm/vifm](https://github.com/vifm/vifm)
  - [yank](https://github.com/mptre/yank) - Yank terminal output to clipboard.
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm [http://www.zstd.net](http://www.zstd.net)
 ### C++
@@ -239,6 +240,7 @@ Terminal Emulators
  - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
  - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects. [https://present.readthedocs.io/en/latest/](https://present.readthedocs.io/en/latest/)
  - [py](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line.
+ - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console [https://ranger.github.io/](https://ranger.github.io/)
  - [rockstar](https://github.com/avinassh/rockstar) - Makes you a Rockstar C++ Programmer in 2 minutes.
  - [soccer](https://github.com/architv/soccer-cli) - ⚽️ Football scores for hackers. 💻 A command line interface for all the football scores.
  - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
@@ -286,6 +288,7 @@ Terminal Emulators
  - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
  - [z](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
+ - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included. [https://zellij.dev/](https://zellij.dev/)
  - [zenith](https://github.com/bvaisvil/zenith) - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage.
 ### sh
  - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script. [https://xwmx.github.io/nb/](https://xwmx.github.io/nb/)
@@ -311,6 +314,7 @@ Terminal Emulators
  - [dots](https://github.com/safinsingh/dots) - My dotfiles for Arch Linux and awesomeWM.
  - [dots](https://github.com/Who23/dots) - My macOS dots :)
  - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
+ - [dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux
 
 ## Guides
 ### Bash
