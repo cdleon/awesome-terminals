@@ -30,7 +30,7 @@ Terminal Emulators
 - [Termit](https://github.com/nonstop/termit) - Terminal emulator based on VTE library with Lua scripting.
 - [Termite](https://github.com/thestinger/termite/) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
-- [Tilix](https://gnunn1.github.io/tilix-web/) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
+- [Tilix](https://github.com/gnunn1/tilix) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines. [https://gnunn1.github.io/tilix-web/](https://gnunn1.github.io/tilix-web/)
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Wayst](https://github.com/91861/wayst) - A simple terminal emulator.
 - [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
@@ -163,6 +163,7 @@ Terminal Emulators
  - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. [https://goaccess.io](https://goaccess.io)
  - [gotop](https://github.com/cjbassi/gotop) - **[DEPRECATED]** A terminal based graphical activity monitor inspired by gtop and vtop.
  - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
+ - [grit](https://github.com/climech/grit) - Multitree-based personal task manager.
  - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster. [https://hostyoself.com](https://hostyoself.com)
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
  - [hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
@@ -215,6 +216,7 @@ Terminal Emulators
  - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
  - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
  - [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl.
+ - [zx](https://github.com/google/zx) - A tool for writing better scripts
 ### PowerShell
  - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com. [https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html](https://www.fireeye.com/blog/threat-research/2019/08/commando-vm-customization-containers-kali.html)
 ### Python
@@ -309,12 +311,15 @@ Terminal Emulators
  
 ## Dotfiles
  - [~/.dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide.
- - [dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files.
- - [dotfiles](https://github.com/NerdyPepper/dotfiles) - Files that define my GNU/Linux box.
+ - [dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux
  - [dots](https://github.com/safinsingh/dots) - My dotfiles for Arch Linux and awesomeWM.
  - [dots](https://github.com/Who23/dots) - My macOS dots :)
+ - [dotfiles](https://github.com/koekeishiya/dotfiles) - Configuration files.
+ - [dotfiles](https://github.com/NerdyPepper/dotfiles) - Files that define my GNU/Linux box.
  - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
- - [dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux
+ - [dotfiles](https://github.com/dikiaap/dotfiles)
+ - [dotfiles](https://github.com/mathiasbynens/dotfiles) - 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
+ - [dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
 
 ## Guides
 ### Bash
