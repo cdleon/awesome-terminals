@@ -114,6 +114,7 @@ Terminal Emulators
  - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
  - [catimage](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal.
  - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+ - [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux.
  - [hashcat](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility.
  - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
  - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
