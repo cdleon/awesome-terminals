@@ -24,6 +24,7 @@ Terminal Emulators
 - [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt.
 - [Sakura](https://launchpad.net/sakura) - Sakura is a terminal emulator based just on GTK and VTE.
 - [st](https://st.suckless.org/) - st is a simple terminal implementation for X.
+- [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 - [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. [https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
@@ -52,6 +53,7 @@ Terminal Emulators
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
+- [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Termbar](https://github.com/vetelko/termbar) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
 - [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. [https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
@@ -79,6 +81,7 @@ Terminal Emulators
 - [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [PuTTY](https://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+- [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
 - [Terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age. [https://eugeny.github.io/terminus/](https://eugeny.github.io/terminus/)
 - [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
@@ -138,6 +141,7 @@ Terminal Emulators
  - [openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library [http://www.openalpr.com](http://www.openalpr.com)
  - [timew](https://github.com/GothenburgBitFactory/timewarrior) - Commandline Time Reporting
  - [timg](https://github.com/hzeller/timg) - A terminal image viewer.
+ - [vtm](https://github.com/netxs-group/VTM) - Terminal multiplexer with TUI window manager and multi-party session sharing [https://vtm.netxs.online/](https://vtm.netxs.online/)
  - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change. [https://facebook.github.io/watchman/](https://facebook.github.io/watchman/)
  - [winget](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget).
  - [zindex](https://github.com/mattgodbolt/zindex) - Create an index on a compressed text file.
@@ -174,6 +178,7 @@ Terminal Emulators
  - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor. [https://micro-editor.github.io/](https://micro-editor.github.io/)
  - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels [https://davrodpin.github.io/mole/](https://davrodpin.github.io/mole/)
  - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+ - [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
  - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
  - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. [https://claudiodangelis.com/qrcp](https://claudiodangelis.com/qrcp)
  - [ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
@@ -182,6 +187,7 @@ Terminal Emulators
  - [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
  - [scc](https://github.com/boyter/scc) -  Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.
  - [screego](https://github.com/screego/server) - Screen sharing for developers. [https://screego.net/](https://screego.net/)
+ - [slides](https://github.com/maaslalani/slides) - Terminal based presentation tool [https://maaslalani.com/slides/](https://maaslalani.com/slides/)
  - [switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port.
  - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
  - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking.
@@ -276,6 +282,7 @@ Terminal Emulators
  - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
  - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
  - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
+ - [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
  - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
  - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
@@ -294,6 +301,7 @@ Terminal Emulators
  - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included. [https://zellij.dev/](https://zellij.dev/)
  - [zenith](https://github.com/bvaisvil/zenith) - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage.
 ### sh
+ - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
  - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script. [https://xwmx.github.io/nb/](https://xwmx.github.io/nb/)
  - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. 
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
@@ -321,6 +329,7 @@ Terminal Emulators
  - [dotfiles](https://github.com/dikiaap/dotfiles)
  - [dotfiles](https://github.com/mathiasbynens/dotfiles) - 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
  - [dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
+ - [dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my own dotfiles ported to fish
 
 ## Guides
 ### Bash
