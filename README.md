@@ -114,6 +114,7 @@ Terminal Emulators
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 ### C
  - [afetch](https://github.com/13-CF/afetch) - Simple system info written in C
+ - [](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. [https://geoff.greer.fm/ag/](https://geoff.greer.fm/ag/)
  - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
  - [catimage](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal.
  - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -151,9 +152,11 @@ Terminal Emulators
  - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3.
  - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
+ - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
  - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies. [https://cointop.sh](https://cointop.sh)
  - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. 
  - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦.
+ - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. [https://curlie.io/](https://curlie.io/)
  - [devd](https://github.com/cortesi/devd) - A local webserver for developers.
  - [direnv](https://github.com/direnv/direnv) - unclutter your .profile. [http://direnv.net](http://direnv.net)
  - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
@@ -219,6 +222,7 @@ Terminal Emulators
  - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal 💻.
  - [splash](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
  - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player.
+ - [tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands [https://tldr.sh/](https://tldr.sh/)
  - [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash.
  - [unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document.
  - [vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. [http://parall.ax/vtop](http://parall.ax/vtop)
@@ -271,8 +275,12 @@ Terminal Emulators
  - [atm](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.[http://allthemusic.info](http://allthemusic.info)
  - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
  - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
- - [btm](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+ - [br](https://github.com/Canop/broot) - A new way to see and navigate directory trees [https://dystroy.org/broot](https://dystroy.org/broot)
+ - [btm](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [https://clementtsang.github.io/bottom/nightly/](https://clementtsang.github.io/bottom/nightly/)
+ - [choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
  - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
+ - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+ - [dog](https://github.com/ogham/dog) - A command-line DNS client. [https://dns.lookup.dog/](https://dns.lookup.dog/)
  - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
  - [eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal.
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
@@ -285,6 +293,7 @@ Terminal Emulators
  - [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
  - [loc](https://github.com/cgag/loc) - Count lines of code quickly.
  - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
+ - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
  - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
  - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
  - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
@@ -296,10 +305,12 @@ Terminal Emulators
  - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
  - [tre](https://github.com/dduan/tre) - Tree command, improved.
  - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
+ - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
  - [z](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
  - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included. [https://zellij.dev/](https://zellij.dev/)
  - [zenith](https://github.com/bvaisvil/zenith) - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage.
+ - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 ### sh
  - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
  - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script. [https://xwmx.github.io/nb/](https://xwmx.github.io/nb/)
