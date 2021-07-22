@@ -55,7 +55,6 @@ Terminal Emulators
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Termbar](https://github.com/vetelko/termbar) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
-- [Treeterm](http://www.treeterm.com/) - TreeTerm is a combination of a file manager and terminal for the mac.
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
