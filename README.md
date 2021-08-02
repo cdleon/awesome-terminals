@@ -110,7 +110,7 @@ Terminal Emulators
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
 ### C
  - [afetch](https://github.com/13-CF/afetch) - Simple system info written in C
- - [](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. [https://geoff.greer.fm/ag/](https://geoff.greer.fm/ag/)
+ - [ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. [https://geoff.greer.fm/ag/](https://geoff.greer.fm/ag/)
  - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux.
  - [catimage](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal.
  - [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
