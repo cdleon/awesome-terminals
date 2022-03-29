@@ -28,7 +28,7 @@ Terminal Emulators
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 - [Termit](https://github.com/nonstop/termit) - Terminal emulator based on VTE library with Lua scripting.
-- [Termite](https://github.com/thestinger/termite/) - **obsoleted by Alacritty** A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
+- [Termite](https://github.com/thestinger/termite/) - **OBSOLETED BY ALACRITTY** A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://github.com/gnunn1/tilix) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines. [https://gnunn1.github.io/tilix-web/](https://gnunn1.github.io/tilix-web/)
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
