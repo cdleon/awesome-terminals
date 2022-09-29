@@ -262,9 +262,10 @@ Terminal Emulators
  - [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
  - [stellar](https://github.com/fastmonkeys/stellar) - Fast database snapshot and restore tool for development.
  - [repk](https://github.com/rahulunair/repo-peek) - open a remote repo locally quickly
+ - [td](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️ [https://pypi.org/project/td-cli/](https://pypi.org/project/td-cli/)
  - [termius](https://github.com/termius/termius-cli) - CLI for the ssh client Termius [https://termius.com](https://termius.com).
  - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages [https://tldr.sh](https://tldr.sh)
- - [td](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️ [https://pypi.org/project/td-cli/](https://pypi.org/project/td-cli/)
+ - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers. [https://twtxt.readthedocs.io/en/stable/](https://twtxt.readthedocs.io/en/stable/)
  - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework [https://wifiphisher.org](https://wifiphisher.org)
  - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
  - [you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web [https://you-get.org/](https://you-get.org/)
