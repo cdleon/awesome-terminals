@@ -284,6 +284,7 @@ Terminal Emulators
  - [choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
  - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
  - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+ - [difft](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
  - [dog](https://github.com/ogham/dog) - A command-line DNS client. [https://dns.lookup.dog/](https://dns.lookup.dog/)
  - [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. [https://lib.rs/crates/dua-cli](https://lib.rs/crates/dua-cli)
  - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
