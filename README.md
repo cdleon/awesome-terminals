@@ -108,6 +108,7 @@ Terminal Emulators
  - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
  - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. [http://denilsonsa.github.io/prettyping](http://denilsonsa.github.io/prettyping)
  - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
+ - [p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
  - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
@@ -276,6 +277,7 @@ Terminal Emulators
  - [htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers. [http://htty.github.io](http://htty.github.io)
  - [tmuxinator](https://github.com/tmuxinator/tmuxinator) -  Manage complex tmux sessions easily.
 ### Rust
+ - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
  - [atm](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.[http://allthemusic.info](http://allthemusic.info)
  - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
  - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -307,6 +309,7 @@ Terminal Emulators
  - [rg](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
  - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
  - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
+ - [spt](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
  - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts. [https://starship.rs](https://starship.rs)
  - [tldr](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
  - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
