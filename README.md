@@ -12,6 +12,7 @@ Terminal Emulators
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Darktile](https://github.com/liamg/darktile) - a GPU rendered terminal emulator designed for tiling window managers.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
+- [Fyne Terminal](https://github.com/fyne-io/terminal) - A graphical terminal emulator for Linux using Fyne
 - [Gnome Terminal](https://github.com/GNOME/gnome-terminal) - A terminal emulator for GNOME.
 - [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
@@ -87,11 +88,13 @@ Terminal Emulators
 ## Shells
 - [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [GNU Bash](https://git.savannah.gnu.org/cgit/bash.git/) - Bash is the GNU Project's Bourne Again SHell, a complete implementation of the POSIX shell spec.
+- [Oil](https://github.com/oilshell/oil) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime. It's also for Python and JavaScript users who avoid shell!
 - [Nu Shell](https://github.com/nushell/nushell) - A new type of shell.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## Tools
 ### Bash
+ - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts. [https://www.basher.it/](https://www.basher.it/)
  - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
  - [ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor -- a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
  - [desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell.
@@ -168,6 +171,7 @@ Terminal Emulators
  - [gotop](https://github.com/cjbassi/gotop) - **[DEPRECATED]** A terminal based graphical activity monitor inspired by gtop and vtop.
  - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
  - [grit](https://github.com/climech/grit) - Multitree-based personal task manager.
+ - [gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
  - [hostyoself](https://github.com/schollz/hostyoself) - Host yo' self from your browser, your phone, your toaster. [https://hostyoself.com](https://hostyoself.com)
  - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. [https://hub.github.com/](https://hub.github.com/)
  - [hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPs MITM proxy and traffic recorder with on-the-fly TLS cert generation.
@@ -176,13 +180,15 @@ Terminal Emulators
  - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. [https://mkcert.dev](https://mkcert.dev)
  - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor. [https://micro-editor.github.io/](https://micro-editor.github.io/)
  - [mole](https://github.com/davrodpin/mole) - cli app to create ssh tunnels [https://davrodpin.github.io/mole/](https://davrodpin.github.io/mole/)
+ - [noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
  - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
  - [plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
  - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
  - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. [https://claudiodangelis.com/qrcp](https://claudiodangelis.com/qrcp)
  - [ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
  - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
- - [rtop](https://github.com/rapidloop/rtop) -  rtop is an interactive, remote system monitoring tool based on SSH. [http://www.rtop-monitor.org/](http://www.rtop-monitor.org/)
+ - [rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH. [http://www.rtop-monitor.org/](http://www.rtop-monitor.org/)
+ - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
  - [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
  - [scc](https://github.com/boyter/scc) -  Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.
  - [screego](https://github.com/screego/server) - Screen sharing for developers. [https://screego.net/](https://screego.net/)
@@ -259,6 +265,7 @@ Terminal Emulators
  - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages [https://tldr.sh](https://tldr.sh)
  - [td](https://github.com/darrikonn/td-cli) - A todo command line todo manager ✔️ [https://pypi.org/project/td-cli/](https://pypi.org/project/td-cli/)
  - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework [https://wifiphisher.org](https://wifiphisher.org)
+ - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
  - [you-get](https://github.com/soimort/you-get) - ⏬ Dumb downloader that scrapes the web [https://you-get.org/](https://you-get.org/)
  - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites [http://ytdl-org.github.io/youtube-dl/](http://ytdl-org.github.io/youtube-dl/)
  - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -278,6 +285,7 @@ Terminal Emulators
  - [coreutils](https://github.com/uutils/coreutils) -  Cross-platform Rust rewrite of the GNU coreutils.
  - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
  - [dog](https://github.com/ogham/dog) - A command-line DNS client. [https://dns.lookup.dog/](https://dns.lookup.dog/)
+ - [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. [https://lib.rs/crates/dua-cli](https://lib.rs/crates/dua-cli)
  - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
  - [eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal.
  - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
@@ -285,6 +293,7 @@ Terminal Emulators
  - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
  - [gping](https://github.com/orf/gping) - Ping, but with a graph.
  - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
+ - [hx](https://github.com/helix-editor/helix) - A post-modern modal text editor.
  - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
  - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
  - [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -337,6 +346,7 @@ Terminal Emulators
  - [dotfiles](https://github.com/dikiaap/dotfiles)
  - [dotfiles](https://github.com/mathiasbynens/dotfiles) - 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
  - [dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
+ - [dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
  - [dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my own dotfiles ported to fish
 
 ## Guides
