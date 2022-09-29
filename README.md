@@ -42,7 +42,7 @@ Terminal Emulators
 
 ### MacOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
-- [Cathode](http://www.secretgeometry.com/apps/cathode/) - VINTAGE TERMINAL.
+- Cathode - **[DEPRECATED]** VINTAGE TERMINAL.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
