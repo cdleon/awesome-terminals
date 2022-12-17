@@ -83,6 +83,7 @@ Terminal Emulators
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
 - [Wez's Terminal](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
+- [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ## Shells
