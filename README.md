@@ -12,6 +12,7 @@ Terminal Emulators
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Darktile](https://github.com/liamg/darktile) - a GPU rendered terminal emulator designed for tiling window managers.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
+- [foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator.
 - [Fyne Terminal](https://github.com/fyne-io/terminal) - A graphical terminal emulator for Linux using Fyne
 - [Gnome Terminal](https://github.com/GNOME/gnome-terminal) - A terminal emulator for GNOME.
 - [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
