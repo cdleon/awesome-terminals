@@ -93,6 +93,7 @@ Terminal Emulators
 - [Oil](https://github.com/oilshell/oil) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime. It's also for Python and JavaScript users who avoid shell!
 - [Nu Shell](https://github.com/nushell/nushell) - A new type of shell.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell
 
 ## Tools
 ### Bash
