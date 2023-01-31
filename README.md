@@ -108,7 +108,7 @@ Terminal Emulators
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
  - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
  - [has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
- - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. 
+ - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
  - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
  - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. [http://denilsonsa.github.io/prettyping](http://denilsonsa.github.io/prettyping)
  - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
@@ -132,7 +132,7 @@ Terminal Emulators
  - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
  - [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv).
  - [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline.
- - [smenu](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing. 
+ - [smenu](https://github.com/p-gen/smenu) -  Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
  - [tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer.
  - [xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution.
  - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
@@ -158,7 +158,7 @@ Terminal Emulators
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
  - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies. [https://cointop.sh](https://cointop.sh)
- - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems. 
+ - [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
  - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦.
  - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. [https://curlie.io/](https://curlie.io/)
  - [devd](https://github.com/cortesi/devd) - A local webserver for developers.
@@ -224,7 +224,7 @@ Terminal Emulators
  - [readme](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [resume](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume.
  - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes. [http://rtail.org](http://rtail.org)
- - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line. 
+ - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal 💻.
  - [splash](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
@@ -246,7 +246,7 @@ Terminal Emulators
  - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
  - [fpp](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands. [http://facebook.github.io/PathPicker/](http://facebook.github.io/PathPicker/)
  - [fuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
- - [hn](https://github.com/donnemartin/haxor-news) -  Browse Hacker News like a haxor: A Hacker News command line interface (CLI). 
+ - [hn](https://github.com/donnemartin/haxor-news) -  Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
  - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
  - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. [http://nicolargo.github.io/glances/](http://nicolargo.github.io/glances/)
  - [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. [https://httpie.org](https://httpie.org)
@@ -330,21 +330,21 @@ Terminal Emulators
 ### sh
  - [ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols
  - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script. [https://xwmx.github.io/nb/](https://xwmx.github.io/nb/)
- - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. 
+ - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
  - [shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
  - [takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
  - [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on terminal screen!
  - [tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 ### sh (macOS)
  - [lsusb](https://github.com/jlhonora/lsusb) - lsusb command for Mac OS X.
- - [mac](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system. 
+ - [mac](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
  - [mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface.
  - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
  - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
 ### Swift
  - [trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash.
- 
+
 ## Dotfiles
  - [~/.dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide.
  - [dot](https://github.com/makccr/dot) - These are my dot files. I've primarily been a MacOS user for most of the time I've been collecting dotfiles, but I've recently switched to Linux
