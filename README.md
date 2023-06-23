@@ -41,7 +41,7 @@ Terminal Emulators
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
 
-### MacOS
+### macOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - Cathode - **[DEPRECATED]** VINTAGE TERMINAL.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
