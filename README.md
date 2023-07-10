@@ -69,6 +69,7 @@ Terminal Emulators
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
 
 ### Windows
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.
 - [Console](https://sourceforge.net/projects/console/) - Console is a Windows console window enhancement.
