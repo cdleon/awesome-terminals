@@ -127,6 +127,7 @@ Terminal Emulators
  - [fastfetch](https://github.com/LinusDierheimer/fastfetch) - Like neofetch, but much faster because written in c. Only Linux.
  - [hashcat](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility.
  - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+ - [hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
  - [imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
  - [jo](https://github.com/jpmens/jo) - JSON output from a shell. [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
  - [jq](https://github.com/stedolan/jq) - Command-line JSON processor. [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
