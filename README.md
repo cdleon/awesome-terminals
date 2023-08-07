@@ -158,6 +158,7 @@ Terminal Emulators
 ### Go
  - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3.
  - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
+ - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers. [https://www.brow.sh/](https://www.brow.sh/)
  - [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
  - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
  - [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies. [https://cointop.sh](https://cointop.sh)
