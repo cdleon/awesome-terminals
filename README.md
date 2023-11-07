@@ -368,6 +368,7 @@ Terminal Emulators
  - [dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, alacritty; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
  - [dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
  - [dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my own dotfiles ported to fish
+ - [dotfiles](https://github.com/ferdinandyb/dotfiles) - Various dotfiles, most notably for terminal email (aerc, isync, mailctl, mstmp(q), ranked addressbook etc), various terminals (kitty, contour, wezterm), zsh, ipython, vim, regolith and some git goodies.
 
 ## Guides
 ### Bash
