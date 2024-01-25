@@ -296,6 +296,7 @@ Terminal Emulators
 ### Rust
  - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
  - [atm](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.[http://allthemusic.info](http://allthemusic.info)
+ - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history [https://atuin.sh/](https://atuin.sh/)
  - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool.
  - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
  - [br](https://github.com/Canop/broot) - A new way to see and navigate directory trees [https://dystroy.org/broot](https://dystroy.org/broot)
