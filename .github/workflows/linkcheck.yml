@@ -1,0 +1,17 @@
+name: Link-check
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # every monday
+  push:
+
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run linksafe
+        uses: TechWiz-3/linksafe@fast
+        env:
+            TOKEN: ${{ secrets.TOKEN }}
