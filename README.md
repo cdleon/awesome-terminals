@@ -104,6 +104,7 @@ Terminal Emulators
 - [Nu Shell](https://github.com/nushell/nushell) - A new type of shell.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell
+  [Z Shell](https://sourceforge.net/p/zsh/code/ci/master/tree/) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [https://www.zsh.org/](https://www.zsh.org/)
 
 ## Tools
 ### Bash
