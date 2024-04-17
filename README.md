@@ -37,6 +37,7 @@ Terminal Emulators
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://github.com/gnunn1/tilix) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines. [https://gnunn1.github.io/tilix-web/](https://gnunn1.github.io/tilix-web/)
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
+- [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wayst](https://github.com/91861/wayst) - A simple terminal emulator.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
