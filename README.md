@@ -102,10 +102,11 @@ Terminal Emulators
 ## Shells
 - [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [GNU Bash](https://git.savannah.gnu.org/cgit/bash.git/) - Bash is the GNU Project's Bourne Again SHell, a complete implementation of the POSIX shell spec.
-- [Oil](https://github.com/oilshell/oil) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime. It's also for Python and JavaScript users who avoid shell!
+- [Oils](https://github.com/oilshell/oil) - Oils is a new Unix shell. It's our upgrade path from bash to a better language and runtime. It's also for Python and JavaScript users who avoid shell!
 - [Nu Shell](https://github.com/nushell/nushell) - A new type of shell.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell
+  [Z Shell](https://sourceforge.net/p/zsh/code/ci/master/tree/) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [https://www.zsh.org/](https://www.zsh.org/)
 
 ## Tools
 ### Bash
