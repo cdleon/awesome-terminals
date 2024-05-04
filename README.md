@@ -293,6 +293,7 @@ Terminal Emulators
  - [facebook-cli](https://github.com/specious/facebook-cli) - 💻 Facebook command line tool [https://asciinema.org/a/87129](https://asciinema.org/a/87129)
  - [hibp](https://github.com/michenriksen/hibp) - A simple tool to check a bunch of email addresses against the Have I Been Pwned API. [https://rubygems.org/gems/hibp](https://rubygems.org/gems/hibp)
  - [htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers. [http://htty.github.io](http://htty.github.io)
+ - [teamocil](https://github.com/remi/teamocil) - Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
  - [tmuxinator](https://github.com/tmuxinator/tmuxinator) -  Manage complex tmux sessions easily.
 ### Rust
  - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
@@ -335,6 +336,7 @@ Terminal Emulators
  - [tre](https://github.com/dduan/tre) - Tree command, improved.
  - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
  - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+ - [weztermocil](https://github.com/alexcaza/weztermocil) - Automatically create windows and panes in Wezterm via YAML configs (like Teamocil and iTermocil).
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
  - [z](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
  - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included. [https://zellij.dev/](https://zellij.dev/)
