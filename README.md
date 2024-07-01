@@ -105,6 +105,7 @@ Terminal Emulators
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell
   [Z Shell](https://sourceforge.net/p/zsh/code/ci/master/tree/) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [https://www.zsh.org/](https://www.zsh.org/)
+- [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 
 ## Tools
 ### Bash
