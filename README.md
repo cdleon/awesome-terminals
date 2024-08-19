@@ -52,7 +52,7 @@ Terminal Emulators
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
-- [Fig](https://fig.io/) - The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
+- [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
