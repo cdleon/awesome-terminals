@@ -19,6 +19,7 @@ Terminal Emulators
 - [Gnome Terminal](https://github.com/GNOME/gnome-terminal) - A terminal emulator for GNOME.
 - [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
+- [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
