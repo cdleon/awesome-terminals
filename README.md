@@ -25,6 +25,7 @@ Terminal Emulators
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Notty](https://github.com/withoutboats/notty) - A new kind of terminal.
 - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
+- [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - New Container-Focused Terminal Emulator for GNOME.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. 
 - [ROXTerm](http://roxterm.sourceforge.net/) - ROXTerm is a terminal emulator intended to provide similar features to gnome-terminal, based on the same VTE library.
 - [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt.
