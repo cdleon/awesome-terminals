@@ -19,11 +19,13 @@ Terminal Emulators
 - [Gnome Terminal](https://github.com/GNOME/gnome-terminal) - A terminal emulator for GNOME.
 - [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
+- [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Notty](https://github.com/withoutboats/notty) - A new kind of terminal.
 - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
+- [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - New Container-Focused Terminal Emulator for GNOME.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. 
 - [ROXTerm](http://roxterm.sourceforge.net/) - ROXTerm is a terminal emulator intended to provide similar features to gnome-terminal, based on the same VTE library.
 - [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt.
@@ -37,6 +39,7 @@ Terminal Emulators
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://github.com/gnunn1/tilix) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines. [https://gnunn1.github.io/tilix-web/](https://gnunn1.github.io/tilix-web/)
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
+- [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wayst](https://github.com/91861/wayst) - A simple terminal emulator.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
@@ -52,7 +55,7 @@ Terminal Emulators
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
-- [Fig](https://fig.io/) - The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
+- [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
@@ -66,6 +69,7 @@ Terminal Emulators
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Warp](https://www.warp.dev/) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
+- [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
@@ -104,7 +108,7 @@ Terminal Emulators
 - [Nu Shell](https://github.com/nushell/nushell) - A new type of shell.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell
-  [Z Shell](https://sourceforge.net/p/zsh/code/ci/master/tree/) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [https://www.zsh.org/](https://www.zsh.org/)
+- [Z Shell](https://sourceforge.net/p/zsh/code/ci/master/tree/) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [https://www.zsh.org/](https://www.zsh.org/)
 
 ## Tools
 ### Bash
@@ -185,6 +189,7 @@ Terminal Emulators
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
  - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. [https://goaccess.io](https://goaccess.io)
+ - [goterpix](https://github.com/FinecoFinit/goterpix) - Draw pixel art images with Ansi Escape code.
  - [gotop](https://github.com/cjbassi/gotop) - **[DEPRECATED]** A terminal based graphical activity monitor inspired by gtop and vtop.
  - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application.
  - [grit](https://github.com/climech/grit) - Multitree-based personal task manager.
@@ -293,6 +298,7 @@ Terminal Emulators
  - [facebook-cli](https://github.com/specious/facebook-cli) - 💻 Facebook command line tool [https://asciinema.org/a/87129](https://asciinema.org/a/87129)
  - [hibp](https://github.com/michenriksen/hibp) - A simple tool to check a bunch of email addresses against the Have I Been Pwned API. [https://rubygems.org/gems/hibp](https://rubygems.org/gems/hibp)
  - [htty](https://github.com/htty/htty) - htty is the HTTP TTY, a console application for interacting with web servers. [http://htty.github.io](http://htty.github.io)
+ - [teamocil](https://github.com/remi/teamocil) - Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
  - [tmuxinator](https://github.com/tmuxinator/tmuxinator) -  Manage complex tmux sessions easily.
 ### Rust
  - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
@@ -310,7 +316,8 @@ Terminal Emulators
  - [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. [https://lib.rs/crates/dua-cli](https://lib.rs/crates/dua-cli)
  - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
  - [eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal.
- - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
+ - [exa](https://github.com/ogham/exa) - **[DEPRECATED]** A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
+ - [eza](https://github.com/eza-community/eza) - A modern version of ‘ls’. [https://eza.rocks/](https://eza.rocks/)
  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
  - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
  - [gping](https://github.com/orf/gping) - Ping, but with a graph.
@@ -335,6 +342,7 @@ Terminal Emulators
  - [tre](https://github.com/dduan/tre) - Tree command, improved.
  - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
  - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+ - [weztermocil](https://github.com/alexcaza/weztermocil) - Automatically create windows and panes in Wezterm via YAML configs (like Teamocil and iTermocil).
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
  - [z](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem.
  - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included. [https://zellij.dev/](https://zellij.dev/)
