@@ -363,6 +363,7 @@ Terminal Emulators
  - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
  - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
+ - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 ### Swift
  - [trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash.
 
