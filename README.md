@@ -24,7 +24,7 @@ Terminal Emulators
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
-- [Notty](https://github.com/withoutboats/notty) - A new kind of terminal.
+- [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
 - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
 - [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - New Container-Focused Terminal Emulator for GNOME.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. 
