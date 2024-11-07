@@ -129,6 +129,7 @@ Terminal Emulators
  - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. [http://denilsonsa.github.io/prettyping](http://denilsonsa.github.io/prettyping)
  - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
  - [p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
+ - [ramfetch](https://codeberg.org/jahway603/ramfetch) - Fetchs memory info using /proc/meminfo.
  - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
