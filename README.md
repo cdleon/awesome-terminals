@@ -18,6 +18,7 @@ Terminal Emulators
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator.
 - [Fyne Terminal](https://github.com/fyne-io/terminal) - A graphical terminal emulator for Linux using Fyne
+- [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [Gnome Terminal](https://github.com/GNOME/gnome-terminal) - A terminal emulator for GNOME.
 - [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
@@ -58,6 +59,7 @@ Terminal Emulators
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
+- [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
