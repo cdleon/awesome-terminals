@@ -12,6 +12,7 @@ Terminal Emulators
 
 ### Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Darktile](https://github.com/liamg/darktile) - a GPU rendered terminal emulator designed for tiling window managers.
@@ -53,6 +54,7 @@ Terminal Emulators
 
 ### macOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - Cathode - **[DEPRECATED]** VINTAGE TERMINAL.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
@@ -84,6 +86,7 @@ Terminal Emulators
 
 ### Windows
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.
 - [Console](https://sourceforge.net/projects/console/) - Console is a Windows console window enhancement.
