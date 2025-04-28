@@ -224,6 +224,7 @@ Terminal Emulators
  - [switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port.
  - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
  - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking.
+ - [tmuxai](https://github.com/alvinunreal/tmuxai) - AI-powered, non-intrusive terminal assistant.
  - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
  - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC [https://maxmcd.github.io/webtty/](https://maxmcd.github.io/webtty/)
  - [wego](https://github.com/schachmat/wego) -  weather app for the terminal.
