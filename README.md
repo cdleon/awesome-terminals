@@ -125,7 +125,7 @@ Terminal Emulators
  - [emojify](https://github.com/mrowa44/emojify) - Emoji on the command line 😱.
  - [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
- - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
+ - [gg](https://github.com/qw3rtman/gg) - **[DEPRECATED]** Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
  - [has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
  - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
  - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
@@ -172,7 +172,7 @@ Terminal Emulators
  - [winget](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget).
  - [zindex](https://github.com/mattgodbolt/zindex) - Create an index on a compressed text file.
 ### CMD
- - [gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
+ - [gg](https://github.com/qw3rtman/gg) - **[DEPRECATED]** Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
 ### Go
  - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3.
  - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI.
