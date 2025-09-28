@@ -191,6 +191,7 @@ Terminal Emulators
  - [fsql](https://github.com/kashav/fsql) - Search through your filesystem with SQL-esque queries.
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.
+ - [ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
  - [gh](https://github.com/cli/cli) - GitHub’s official command line tool
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
