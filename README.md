@@ -350,6 +350,7 @@ Terminal Emulators
  - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
  - [rg](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
  - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
+ - [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring TUI with process identification and deep packet inspection.
  - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
  - [spt](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
  - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts. [https://starship.rs](https://starship.rs)
