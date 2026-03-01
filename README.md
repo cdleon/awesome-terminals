@@ -87,6 +87,7 @@ Terminal Emulators
 
 ### Web
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
+ - [ink-web](https://github.com/cjroth/ink-web) - A browser-based runtime for Ink that renders React terminal UI apps in xterm.js.
  - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
 
