@@ -252,12 +252,14 @@ Terminal Emulators
  - [hn](https://github.com/rafaelrinaldi/hn-cli) - 📰 CLI to browse Hacker News.
  - [moro](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours [https://moro.js.org/](https://moro.js.org/)
  - [nativefier](https://github.com/jiahaog/nativefier) -  Make any web page a desktop application.
+ - [overloop-cli](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts, run multi-channel campaigns (email + LinkedIn), and manage conversations. JSON output.
  - [pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs.
  - [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs.
  - [readme](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [resume](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume.
  - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes. [http://rtail.org](http://rtail.org)
  - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
+ - [signals-cli](https://github.com/sortlist/signals-cli) - Intent signal monitoring for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output.
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal 💻.
  - [splash](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
