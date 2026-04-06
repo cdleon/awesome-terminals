@@ -1,6 +1,7 @@
 # awesome-terminals
 Terminal Emulators
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for terminal workflow orchestration, automated CLI tool management, and multi-agent coordination. MIT licensed.
 ### Android
 - [Android Terminal](https://source.android.com/docs/whatsnew/android-16-release#virtualization) - A built-in system app for running a Linux development environment within a virtual machine on Android.
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
