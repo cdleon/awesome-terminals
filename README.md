@@ -48,6 +48,7 @@ Terminal Emulators
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://github.com/gnunn1/tilix) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines. [https://gnunn1.github.io/tilix-web/](https://gnunn1.github.io/tilix-web/)
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
+- [Volt](https://github.com/frypan05/Volt) - A terminal-native API client built for speed. Navigate to any project — it discovers every route inside your project directory instantly. [Check out Volt](https://voltui.vercel.app)
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wayst](https://github.com/91861/wayst) - A simple terminal emulator.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
@@ -80,6 +81,7 @@ Terminal Emulators
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
+- [Volt](https://github.com/frypan05/Volt) - A terminal-native API client built for speed. Navigate to any project — it discovers every route inside your project directory instantly. [Check out Volt](https://voltui.vercel.app)
 - [Warp](https://www.warp.dev/) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
@@ -109,6 +111,7 @@ Terminal Emulators
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
+- [Volt](https://github.com/frypan05/Volt) - A terminal-native API client built for speed. Navigate to any project — it discovers every route inside your project directory instantly. [Check out Volt](https://voltui.vercel.app)
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
 - [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY.
@@ -357,6 +360,7 @@ Terminal Emulators
  - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
  - [tre](https://github.com/dduan/tre) - Tree command, improved.
  - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
+ - [Volt](https://github.com/frypan05/Volt) - A terminal-native API client built for speed. Navigate to any project — it discovers every route inside your project directory instantly. [Check out Volt](https://voltui.vercel.app)
  - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
  - [weztermocil](https://github.com/alexcaza/weztermocil) - Automatically create windows and panes in Wezterm via YAML configs (like Teamocil and iTermocil).
  - [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
