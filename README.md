@@ -399,6 +399,7 @@ Terminal Emulators
  - [dotfiles](https://github.com/ferdinandyb/dotfiles) - Various dotfiles, most notably for terminal email (aerc, isync, mailctl, mstmp(q), ranked addressbook etc), various terminals (kitty, contour, wezterm), zsh, ipython, vim, regolith and some git goodies.
 
 ## Guides
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 ### Bash
  - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
  - [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
