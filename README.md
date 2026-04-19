@@ -125,6 +125,8 @@ Terminal Emulators
 - [Z Shell](https://sourceforge.net/p/zsh/code/ci/master/tree/) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [https://www.zsh.org/](https://www.zsh.org/)
 
 ## Tools
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 ### Bash
  - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts. [https://www.basher.it/](https://www.basher.it/)
  - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
