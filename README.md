@@ -33,6 +33,7 @@ Terminal Emulators
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
+- [Nova](https://github.com/pmqueiroz/nova) - A GPU-accelerated terminal emulator written in Rust using the iced framework. Supports multi-tab, ANSI/VTE, built-in Fira Code Nerd Font, and AI-assisted command generation.
 - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
 - [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - New Container-Focused Terminal Emulator for GNOME.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. 
@@ -73,6 +74,7 @@ Terminal Emulators
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
+- [Nova](https://github.com/pmqueiroz/nova) - A GPU-accelerated terminal emulator written in Rust using the iced framework. Supports multi-tab, ANSI/VTE, built-in Fira Code Nerd Font, and AI-assisted command generation.
 - [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
@@ -105,6 +107,7 @@ Terminal Emulators
 - [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 - [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
+- [Nova](https://github.com/pmqueiroz/nova) - A GPU-accelerated terminal emulator written in Rust using the iced framework. Supports multi-tab, ANSI/VTE, built-in Fira Code Nerd Font, and AI-assisted command generation.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
