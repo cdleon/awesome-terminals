@@ -4,6 +4,7 @@ Terminal Emulators
 ### Android
 - [Android Terminal](https://source.android.com/docs/whatsnew/android-16-release#virtualization) - A built-in system app for running a Linux development environment within a virtual machine on Android.
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### HarmonyOS
 - [Termony](https://github.com/TermonyHQ/Termony) - Termux for HarmonyOS Computer
@@ -13,6 +14,7 @@ Terminal Emulators
 - [Blink Shell](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) [https://blink.sh](https://blink.sh)
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS. [https://ish.app](https://ish.app)
 - [La Terminal](https://apps.apple.com/us/app/la-terminal/id1629902861) - More than just a simple command-line shell, La Terminal provides a fully-native, first-class touch experience for command-line hackers on iPhone and iPad. [https://blog.xibbon.com/welcome-to-la-terminal/](https://blog.xibbon.com/welcome-to-la-terminal/)
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
@@ -55,6 +57,7 @@ Terminal Emulators
 - [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 - [Zutty](https://github.com/tomscii/zutty) - Unicode terminal with correct VT emulation that uses OpenGL ES Compute Shaders.
 
 ### macOS
@@ -83,12 +86,14 @@ Terminal Emulators
 - [Warp](https://www.warp.dev/) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ### Web
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
  - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
+ - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### Windows
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
@@ -112,6 +117,7 @@ Terminal Emulators
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
 - [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY.
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ## Shells
