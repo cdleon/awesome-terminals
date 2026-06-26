@@ -13,12 +13,14 @@ Terminal Emulators
 - [Blink Shell](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) [https://blink.sh](https://blink.sh)
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS. [https://ish.app](https://ish.app)
 - [La Terminal](https://apps.apple.com/us/app/la-terminal/id1629902861) - More than just a simple command-line shell, La Terminal provides a fully-native, first-class touch experience for command-line hackers on iPhone and iPad. [https://blog.xibbon.com/welcome-to-la-terminal/](https://blog.xibbon.com/welcome-to-la-terminal/)
+- [Onepilot](https://onepilotapp.com) - An iOS terminal emulator with SSH client, designed for running Claude Code, Codex, and other CLI tools on remote servers. [https://onepilotapp.com](https://onepilotapp.com)
 
 ### Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Darktile](https://github.com/liamg/darktile) - **[DEPRECATED]** A GPU rendered terminal emulator designed for tiling window managers.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator.
@@ -55,16 +57,20 @@ Terminal Emulators
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 - [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
+- [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
 - [Zutty](https://github.com/tomscii/zutty) - Unicode terminal with correct VT emulation that uses OpenGL ES Compute Shaders.
+- [zt](https://github.com/midasdf/zt) - A minimal, ultra-fast terminal emulator written in Zig. 1,382 MB/s throughput, 3.5ms startup, 4.3MB RSS. Supports fbdev and X11 backends with 59K+ embedded glyphs.
 
 ### macOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - Cathode - **[DEPRECATED]** VINTAGE TERMINAL.
+- [Conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty, with Liquid Glass chrome, splittable panes, tab groups, and a command palette.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team's secrets, scripts, and SSH credentials.
 - [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -73,26 +79,31 @@ Terminal Emulators
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [KKTerm](https://github.com/ryantsai/KKTerm) - A local-first terminal with multi-protocol support, built-in AI, and animated backgrounds for managing connections, sessions, and workspaces.
+- [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Termbar](https://github.com/vetelko/termbar) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
+- [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Warp](https://www.warp.dev/) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
+- [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ### Web
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
+- [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
  - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
 
 ### Windows
+- [AbsoluteTelnet/SSH](https://www.celestialsoftware.net/) - Commercial Windows SSH, SFTP, Telnet, serial, and terminal emulation client with smart-card authentication, SSH certificates, and Unicode support.
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
@@ -101,6 +112,7 @@ Terminal Emulators
 - [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of Console project.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+- [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
@@ -115,6 +127,7 @@ Terminal Emulators
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
 - [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY.
+- [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ## Shells
@@ -255,12 +268,14 @@ Terminal Emulators
  - [hn](https://github.com/rafaelrinaldi/hn-cli) - 📰 CLI to browse Hacker News.
  - [moro](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours [https://moro.js.org/](https://moro.js.org/)
  - [nativefier](https://github.com/jiahaog/nativefier) -  Make any web page a desktop application.
+ - [overloop-cli](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts, run multi-channel campaigns (email + LinkedIn), and manage conversations. JSON output.
  - [pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs.
  - [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs.
  - [readme](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files. [https://www.npmjs.com/package/readme-md-generator](https://www.npmjs.com/package/readme-md-generator)
  - [resume](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume.
  - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes. [http://rtail.org](http://rtail.org)
  - [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
+ - [signals-cli](https://github.com/sortlist/signals-cli) - Intent signal monitoring for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output.
  - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Small and sleek.
  - [stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal 💻.
  - [splash](https://github.com/splash-cli/splash-cli) - 📸 Beautiful wallpapers from Unsplash 🖼️🛠️
@@ -353,6 +368,7 @@ Terminal Emulators
  - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
  - [rg](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
  - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
+ - [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring TUI with process identification and deep packet inspection.
  - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
  - [spt](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
  - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts. [https://starship.rs](https://starship.rs)
