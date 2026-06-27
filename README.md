@@ -151,7 +151,6 @@ Terminal Emulators
  - [has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
  - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
  - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
- - [passtui](https://github.com/fjmoralesp/passtui) The terminal user interface for [pass](https://www.passwordstore.org/), the standard unix password manager
  - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. [http://denilsonsa.github.io/prettyping](http://denilsonsa.github.io/prettyping)
  - [pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager.
  - [p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
@@ -307,6 +306,7 @@ Terminal Emulators
  - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites. [http://wummel.github.io/linkchecker/](http://wummel.github.io/linkchecker/)
  - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. [http://mycli.net](http://mycli.net)
  - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
+ - [passtui](https://github.com/fjmoralesp/passtui) The terminal user interface for [pass](https://www.passwordstore.org/), the standard unix password manager
  - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects. [https://present.readthedocs.io/en/latest/](https://present.readthedocs.io/en/latest/)
  - [py](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line.
  - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console [https://ranger.github.io/](https://ranger.github.io/)
