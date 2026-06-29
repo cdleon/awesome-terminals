@@ -306,6 +306,7 @@ Terminal Emulators
  - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites. [http://wummel.github.io/linkchecker/](http://wummel.github.io/linkchecker/)
  - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. [http://mycli.net](http://mycli.net)
  - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
+ - [passtui](https://github.com/fjmoralesp/passtui) The terminal user interface for [pass](https://www.passwordstore.org/), the standard unix password manager
  - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects. [https://present.readthedocs.io/en/latest/](https://present.readthedocs.io/en/latest/)
  - [py](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line.
  - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console [https://ranger.github.io/](https://ranger.github.io/)
