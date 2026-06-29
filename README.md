@@ -37,6 +37,7 @@ Terminal Emulators
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
+- [OdyTTY](https://github.com/ghreprimand/odytty) - A GPU-rendered terminal emulator for Linux (Rust/wgpu) with a theme builder, 100 themes, bloom/CRT/retro effects, and live in-app config. [https://odytty.unfinished-works.com/](https://odytty.unfinished-works.com/)
 - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
 - [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - New Container-Focused Terminal Emulator for GNOME.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. 
@@ -55,6 +56,7 @@ Terminal Emulators
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wayst](https://github.com/91861/wayst) - A simple terminal emulator.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
+- [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted web terminal where AI shares your PTY session; in-terminal `#` chat, SSH, and an HTTP Agent API for remote ops.
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 - [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
@@ -79,6 +81,7 @@ Terminal Emulators
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+- [jebi](https://github.com/jebi-sh/jebi) - jebi is a modern terminal emulator for Mac with built-in local AI.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
@@ -87,6 +90,7 @@ Terminal Emulators
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Termbar](https://github.com/vetelko/termbar) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
+- [TermCanvas](https://github.com/lout33/termcanvas) - macOS desktop app that arranges tmux-backed terminal sessions as draggable nodes on an infinite canvas for steering multiple AI coding agents.
 - [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
@@ -95,6 +99,7 @@ Terminal Emulators
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
+- [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted web terminal where AI shares your PTY session; in-terminal `#` chat, SSH, and an HTTP Agent API for remote ops.
 - [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
@@ -102,6 +107,7 @@ Terminal Emulators
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
  - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
+ - [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted browser terminal (xterm.js) with shared PTY AI, SSH, and Agent HTTP API.
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
  - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
@@ -312,6 +318,7 @@ Terminal Emulators
  - [linkchecker](https://github.com/wummel/linkchecker) - check links in web documents or full websites. [http://wummel.github.io/linkchecker/](http://wummel.github.io/linkchecker/)
  - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. [http://mycli.net](http://mycli.net)
  - [outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
+ - [passtui](https://github.com/fjmoralesp/passtui) The terminal user interface for [pass](https://www.passwordstore.org/), the standard unix password manager
  - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects. [https://present.readthedocs.io/en/latest/](https://present.readthedocs.io/en/latest/)
  - [py](https://github.com/Russell91/pythonpy) - the swiss army knife of the command line.
  - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console [https://ranger.github.io/](https://ranger.github.io/)
