@@ -14,8 +14,8 @@ Terminal Emulators
 - [Blink Shell](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) [https://blink.sh](https://blink.sh)
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS. [https://ish.app](https://ish.app)
 - [La Terminal](https://apps.apple.com/us/app/la-terminal/id1629902861) - More than just a simple command-line shell, La Terminal provides a fully-native, first-class touch experience for command-line hackers on iPhone and iPad. [https://blog.xibbon.com/welcome-to-la-terminal/](https://blog.xibbon.com/welcome-to-la-terminal/)
-- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 - [Onepilot](https://onepilotapp.com) - An iOS terminal emulator with SSH client, designed for running Claude Code, Codex, and other CLI tools on remote servers. [https://onepilotapp.com](https://onepilotapp.com)
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
