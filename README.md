@@ -4,6 +4,7 @@ Terminal Emulators
 ### Android
 - [Android Terminal](https://source.android.com/docs/whatsnew/android-16-release#virtualization) - A built-in system app for running a Linux development environment within a virtual machine on Android.
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### HarmonyOS
 - [Termony](https://github.com/TermonyHQ/Termony) - Termux for HarmonyOS Computer
@@ -14,6 +15,7 @@ Terminal Emulators
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS. [https://ish.app](https://ish.app)
 - [La Terminal](https://apps.apple.com/us/app/la-terminal/id1629902861) - More than just a simple command-line shell, La Terminal provides a fully-native, first-class touch experience for command-line hackers on iPhone and iPad. [https://blog.xibbon.com/welcome-to-la-terminal/](https://blog.xibbon.com/welcome-to-la-terminal/)
 - [Onepilot](https://onepilotapp.com) - An iOS terminal emulator with SSH client, designed for running Claude Code, Codex, and other CLI tools on remote servers. [https://onepilotapp.com](https://onepilotapp.com)
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
@@ -60,6 +62,7 @@ Terminal Emulators
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
 - [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 - [Zutty](https://github.com/tomscii/zutty) - Unicode terminal with correct VT emulation that uses OpenGL ES Compute Shaders.
 - [zt](https://github.com/midasdf/zt) - A minimal, ultra-fast terminal emulator written in Zig. 1,382 MB/s throughput, 3.5ms startup, 4.3MB RSS. Supports fbdev and X11 backends with 59K+ embedded glyphs.
 
@@ -97,6 +100,7 @@ Terminal Emulators
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted web terminal where AI shares your PTY session; in-terminal `#` chat, SSH, and an HTTP Agent API for remote ops.
 - [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ### Web
@@ -105,6 +109,7 @@ Terminal Emulators
  - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
  - [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted browser terminal (xterm.js) with shared PTY AI, SSH, and Agent HTTP API.
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
+ - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### Windows
 - [AbsoluteTelnet/SSH](https://www.celestialsoftware.net/) - Commercial Windows SSH, SFTP, Telnet, serial, and terminal emulation client with smart-card authentication, SSH certificates, and Unicode support.
@@ -129,8 +134,9 @@ Terminal Emulators
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
-- [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY.
+- [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY
 - [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
+- [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
 
 ## Shells
