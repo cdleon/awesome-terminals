@@ -34,6 +34,7 @@ Terminal Emulators
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [kiro](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
+- [KKTerm](https://github.com/ryantsai/KKTerm) - A local-first terminal with multi-protocol support, built-in AI, and animated backgrounds for managing connections, sessions, and workspaces.
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
@@ -76,13 +77,14 @@ Terminal Emulators
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
-- [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
+- [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team's secrets, scripts, and SSH credentials.
 - [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [jebi](https://github.com/jebi-sh/jebi) - jebi is a modern terminal emulator for Mac with built-in local AI.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [KKTerm](https://github.com/ryantsai/KKTerm) - A local-first terminal with multi-protocol support, built-in AI, and animated backgrounds for managing connections, sessions, and workspaces.
 - [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
@@ -126,6 +128,7 @@ Terminal Emulators
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
+- [KKTerm](https://github.com/ryantsai/KKTerm) - A local-first terminal with multi-protocol support, built-in AI, and animated backgrounds for managing connections, sessions, and workspaces.
 - [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
@@ -226,7 +229,7 @@ Terminal Emulators
  - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
  - [furious](https://github.com/liamg/furious) - Golang IP/port scanner with SYN (stealth) scanning and device manufacturer identification.
  - [ggc](https://github.com/bmf-san/ggc) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
- - [gh](https://github.com/cli/cli) - GitHub’s official command line tool
+ - [gh](https://github.com/cli/cli) - GitHub's official command line tool
  - [ghq](https://github.com/motemen/ghq) - Remote repository management made easy.
  - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
  - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. [https://goaccess.io](https://goaccess.io)
@@ -360,8 +363,8 @@ Terminal Emulators
  - [dua](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. [https://lib.rs/crates/dua-cli](https://lib.rs/crates/dua-cli)
  - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
  - [eureka](https://github.com/simeg/eureka) - 💡 CLI tool to input and store your ideas without leaving the terminal.
- - [exa](https://github.com/ogham/exa) - **[DEPRECATED]** A modern version of ‘ls’. [https://the.exa.website/](https://the.exa.website/)
- - [eza](https://github.com/eza-community/eza) - A modern version of ‘ls’. [https://eza.rocks/](https://eza.rocks/)
+ - [exa](https://github.com/ogham/exa) - **[DEPRECATED]** A modern version of 'ls'. [https://the.exa.website/](https://the.exa.website/)
+ - [eza](https://github.com/eza-community/eza) - A modern version of 'ls'. [https://eza.rocks/](https://eza.rocks/)
  - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
  - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time.
  - [gping](https://github.com/orf/gping) - Ping, but with a graph.
@@ -403,9 +406,9 @@ Terminal Emulators
  - [tuxi](https://github.com/Bugswriter/tuxi) - Tuxi is a cli assistant. Get answers of your questions instantly.
 ### sh (macOS)
  - [lsusb](https://github.com/jlhonora/lsusb) - lsusb command for Mac OS X.
- - [mac](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
+ - [mac](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
  - [mas](https://github.com/mas-cli/mas) - 📦 Mac App Store command line interface.
- - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
+ - [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS.
  - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
  - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
