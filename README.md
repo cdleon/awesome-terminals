@@ -55,6 +55,7 @@ Terminal Emulators
 - [Termite](https://github.com/thestinger/termite/) - **[OBSOLETED BY ALACRITTY]** A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://github.com/gnunn1/tilix) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines. [https://gnunn1.github.io/tilix-web/](https://gnunn1.github.io/tilix-web/)
+- [TUICommander](https://github.com/sstraus/tuicommander) - Cross-platform workspace that runs many AI coding agents in parallel, each in its own git worktree, with agent state detection, diffs and PR management. [https://tuicommander.com](https://tuicommander.com)
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wayst](https://github.com/91861/wayst) - A simple terminal emulator.
@@ -100,6 +101,7 @@ Terminal Emulators
 - [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
+- [TUICommander](https://github.com/sstraus/tuicommander) - Cross-platform workspace that runs many AI coding agents in parallel, each in its own git worktree, with agent state detection, diffs and PR management. [https://tuicommander.com](https://tuicommander.com)
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Warp](https://www.warp.dev/) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
@@ -138,6 +140,7 @@ Terminal Emulators
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
+- [TUICommander](https://github.com/sstraus/tuicommander) - Cross-platform workspace that runs many AI coding agents in parallel, each in its own git worktree, with agent state detection, diffs and PR management. [https://tuicommander.com](https://tuicommander.com)
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
 - [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY
