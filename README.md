@@ -416,6 +416,7 @@ Terminal Emulators
  - [pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
  - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
+ - [claude-session-tint](https://github.com/dotcomjack/claude-session-tint) - Tints each Terminal.app window by project and brightens the one whose Claude Code session finished while you were looking elsewhere.
 ### Swift
  - [trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash.
 
