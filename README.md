@@ -261,6 +261,7 @@ Terminal Emulators
  - [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
  - [scc](https://github.com/boyter/scc) -  Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.
  - [screego](https://github.com/screego/server) - Screen sharing for developers. [https://screego.net/](https://screego.net/)
+ - [shell.online](https://github.com/TeoSlayer/shell.online) - Turn any terminal command into a live browser link; watch or type from any device while the process stays on your machine. [https://shell.online](https://shell.online)
  - [slides](https://github.com/maaslalani/slides) - Terminal based presentation tool [https://maaslalani.com/slides/](https://maaslalani.com/slides/)
  - [switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port.
  - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
