@@ -113,6 +113,7 @@ Terminal Emulators
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
  - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
+ - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live coding-agent sessions (Claude Code, Codex), each cell a real PTY over xterm.js, colour-coded by state and tmux-backed for persistence.
  - [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted browser terminal (xterm.js) with shared PTY AI, SSH, and Agent HTTP API.
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
  - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
