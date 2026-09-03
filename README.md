@@ -92,6 +92,7 @@ Terminal Emulators
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [Saggar](https://saggar.marginalutility.dev) - A native macOS terminal manager that tracks which sessions need you, with status per session, a triage queue, split panes, and remote control from a web companion. Built for running Claude Code, Codex, and other coding agents.
 - [Sinclair](https://github.com/wess/sinclair) - A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. [https://wess.io/sinclair/](https://wess.io/sinclair/)
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Termbar](https://github.com/vetelko/termbar) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
