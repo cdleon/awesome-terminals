@@ -24,7 +24,7 @@ Terminal Emulators
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS). [https://electerm.html5beta.com](https://electerm.html5beta.com)
+- [electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS). [https://electerm.org](https://electerm.org)
 - [Darktile](https://github.com/liamg/darktile) - **[DEPRECATED]** A GPU rendered terminal emulator designed for tiling window managers.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator.
@@ -77,7 +77,7 @@ Terminal Emulators
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS). [https://electerm.html5beta.com](https://electerm.html5beta.com)
+- [electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS). [https://electerm.org](https://electerm.org)
 - [Enso](https://github.com/amanfromsolan/enso) - A friendly, native macOS terminal with workspaces, a command palette, and live process icons, built on libghostty and SwiftUI.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
@@ -111,7 +111,7 @@ Terminal Emulators
 
 ### Web
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
-- [electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS). [https://electerm.html5beta.com](https://electerm.html5beta.com)
+- [electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS). [https://electerm.org](https://electerm.org)
  - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
  - [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted browser terminal (xterm.js) with shared PTY AI, SSH, and Agent HTTP API.
  - [Xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web. [https://xtermjs.org/](https://xtermjs.org/)
@@ -127,7 +127,7 @@ Terminal Emulators
 - [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of Console project.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS). [https://electerm.html5beta.com](https://electerm.html5beta.com)
+- [electerm](https://github.com/electerm/electerm) - Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, iOS). [https://electerm.org](https://electerm.org)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
