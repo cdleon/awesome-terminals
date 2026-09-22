@@ -91,6 +91,7 @@ Terminal Emulators
 - [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
+- [Nexus Shell](https://nexusshell.app/) - A native macOS SSH client with multi-tab terminals, SFTP, SSH key management, Docker tools, and read-only server monitoring.
 - [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Sinclair](https://github.com/wess/sinclair) - A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. [https://wess.io/sinclair/](https://wess.io/sinclair/)
