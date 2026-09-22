@@ -287,6 +287,7 @@ Terminal Emulators
  - [hn](https://github.com/rafaelrinaldi/hn-cli) - 📰 CLI to browse Hacker News.
  - [moro](https://github.com/albacoretuna/moro) - Simple CLI tool for tracking work hours [https://moro.js.org/](https://moro.js.org/)
  - [nativefier](https://github.com/jiahaog/nativefier) -  Make any web page a desktop application.
+ - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Record a coding-agent session in your terminal, then replay it offline with the network off or fork it onto a different model.
  - [overloop-cli](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts, run multi-channel campaigns (email + LinkedIn), and manage conversations. JSON output.
  - [pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs.
  - [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs.
