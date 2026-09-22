@@ -4,6 +4,7 @@ Terminal Emulators
 ### Android
 - [Android Terminal](https://source.android.com/docs/whatsnew/android-16-release#virtualization) - A built-in system app for running a Linux development environment within a virtual machine on Android.
 - [Mobile SSH](https://mobile-ssh.github.io/) - A focused SSH, SFTP, and terminal client for Android with multi-session terminals, a tmux manager, Eternal Terminal resilient sessions, and dual-pane file transfer.
+- [PocketShell](https://pocketshell.app/) - A remote terminal and project workspace for user-owned hosts over WebRTC, with an [Apache-2.0 host agent](https://github.com/yashagldit/PocketShell).
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
@@ -17,6 +18,7 @@ Terminal Emulators
 - [La Terminal](https://apps.apple.com/us/app/la-terminal/id1629902861) - More than just a simple command-line shell, La Terminal provides a fully-native, first-class touch experience for command-line hackers on iPhone and iPad. [https://blog.xibbon.com/welcome-to-la-terminal/](https://blog.xibbon.com/welcome-to-la-terminal/)
 - [Mobile SSH](https://mobile-ssh.github.io/) - A focused SSH, SFTP, and terminal client for iPhone and iPad with multi-session terminals, a tmux manager, Eternal Terminal resilient sessions, and dual-pane file transfer.
 - [Onepilot](https://onepilotapp.com) - An iOS terminal emulator with SSH client, designed for running Claude Code, Codex, and other CLI tools on remote servers. [https://onepilotapp.com](https://onepilotapp.com)
+- [PocketShell](https://pocketshell.app/) - A remote terminal and project workspace for user-owned hosts over WebRTC, with an [Apache-2.0 host agent](https://github.com/yashagldit/PocketShell).
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### Linux
