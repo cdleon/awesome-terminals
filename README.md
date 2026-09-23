@@ -38,6 +38,7 @@ Terminal Emulators
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [kiro](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
+- [kmux](https://github.com/kkd927/kmux) - A keyboard-centric terminal workspace for running AI coding agents side-by-side with split panes, usage dashboards, session resume, and git worktrees.
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
@@ -90,6 +91,7 @@ Terminal Emulators
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [jebi](https://github.com/jebi-sh/jebi) - jebi is a modern terminal emulator for Mac with built-in local AI.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [kmux](https://github.com/kkd927/kmux) - A keyboard-centric terminal workspace for running AI coding agents side-by-side with split panes, usage dashboards, session resume, and git worktrees.
 - [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
