@@ -51,6 +51,7 @@ Terminal Emulators
 - [Sinclair](https://github.com/wess/sinclair) - A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. [https://wess.io/sinclair/](https://wess.io/sinclair/)
 - [st](https://st.suckless.org/) - st is a simple terminal implementation for X.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
+- [Termalime](https://github.com/daveymason/Termalime) - Modern desktop terminal emulator with built-in offline Ollama copilot, interactive code execution, and preflight command safety. [https://termalime.com](https://termalime.com)
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 - [Termit](https://github.com/nonstop/termit) - Terminal emulator based on VTE library with Lua scripting.
