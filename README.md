@@ -4,6 +4,7 @@ Terminal Emulators
 ### Android
 - [Android Terminal](https://source.android.com/docs/whatsnew/android-16-release#virtualization) - A built-in system app for running a Linux development environment within a virtual machine on Android.
 - [Mobile SSH](https://mobile-ssh.github.io/) - A focused SSH, SFTP, and terminal client for Android with multi-session terminals, a tmux manager, Eternal Terminal resilient sessions, and dual-pane file transfer.
+- [TermHub](https://lakson-llc.github.io/termhub-site/) - A free SSH terminal for Android built for driving Claude Code, Codex, and other coding agents from your phone, with a radial command dial, on-device voice dictation, tmux/Herdr sessions, and completion notifications. [Google Play](https://play.google.com/store/apps/details?id=com.lakson.termhub)
 - [TermRover](https://termrover.sh/) - A mobile terminal built to make working with tmux, Herdr, and coding agents feel great on a phone.
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
