@@ -49,6 +49,7 @@ Terminal Emulators
 - [rxvt-unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode is a fork of the well known terminal emulator rxvt.
 - [Sakura](https://launchpad.net/sakura) - Sakura is a terminal emulator based just on GTK and VTE.
 - [Sinclair](https://github.com/wess/sinclair) - A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. [https://wess.io/sinclair/](https://wess.io/sinclair/)
+- [Splitlane](https://github.com/ivkan/splitlane) - A native desktop app (Rust, GPUI) that runs CLI coding agents in terminal panes side by side and shows which one is working, finished or waiting for input.
 - [st](https://st.suckless.org/) - st is a simple terminal implementation for X.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
@@ -96,6 +97,7 @@ Terminal Emulators
 - [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Sinclair](https://github.com/wess/sinclair) - A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. [https://wess.io/sinclair/](https://wess.io/sinclair/)
+- [Splitlane](https://github.com/ivkan/splitlane) - A native desktop app (Rust, GPUI) that runs CLI coding agents in terminal panes side by side and shows which one is working, finished or waiting for input.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Termbar](https://github.com/vetelko/termbar) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
 - [TermCanvas](https://github.com/lout33/termcanvas) - macOS desktop app that arranges tmux-backed terminal sessions as draggable nodes on an infinite canvas for steering multiple AI coding agents.
