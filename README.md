@@ -7,6 +7,7 @@ Terminal Emulators
 - [TermRover](https://termrover.sh/) - A mobile terminal built to make working with tmux, Herdr, and coding agents feel great on a phone.
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
+- [moxsh-terminal](https://github.com/codecloud-dev/moxsh-terminal) - Glassy Linux terminal for Android with a custom-built PRoot engine — brings an iOS-smooth Linux experience to your phone.
 
 ### HarmonyOS
 - [Termony](https://github.com/TermonyHQ/Termony) - Termux for HarmonyOS Computer
