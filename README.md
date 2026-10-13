@@ -34,6 +34,7 @@ Terminal Emulators
 - [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [Gnome Terminal](https://github.com/GNOME/gnome-terminal) - A terminal emulator for GNOME.
 - [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
+- [Hatoba](https://github.com/scarletkc/Hatoba) - Open-source desktop SSH client with an AI assistant beside each terminal, SFTP, and end-to-end encrypted sync through your own Cloudflare account. [https://hatoba.fog.moe](https://hatoba.fog.moe)
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
@@ -86,6 +87,7 @@ Terminal Emulators
 - [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
 - [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
+- [Hatoba](https://github.com/scarletkc/Hatoba) - Open-source desktop SSH client with an AI assistant beside each terminal, SFTP, and end-to-end encrypted sync through your own Cloudflare account. [https://hatoba.fog.moe](https://hatoba.fog.moe)
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [jebi](https://github.com/jebi-sh/jebi) - jebi is a modern terminal emulator for Mac with built-in local AI.
@@ -134,6 +136,7 @@ Terminal Emulators
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+- [Hatoba](https://github.com/scarletkc/Hatoba) - Open-source desktop SSH client with an AI assistant beside each terminal, SFTP, and end-to-end encrypted sync through your own Cloudflare account. [https://hatoba.fog.moe](https://hatoba.fog.moe)
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 - [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
