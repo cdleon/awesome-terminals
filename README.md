@@ -102,6 +102,7 @@ Terminal Emulators
 - [Terminal Candy](https://terminalcandy.com) - A native macOS (Apple Silicon) skinnable terminal that composites a live shell behind any image, with alerts when AI coding agents finish or need input.
 - [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
+- [Termstead](https://github.com/pkhorenyan/termstead) - Native macOS SSH client with a session tree, jump hosts, split panes, broadcast input and SFTP beside the terminal. [https://khorenyan.com/termstead/](https://khorenyan.com/termstead/)
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
