@@ -360,6 +360,7 @@ Terminal Emulators
  - [teamocil](https://github.com/remi/teamocil) - Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
  - [tmuxinator](https://github.com/tmuxinator/tmuxinator) -  Manage complex tmux sessions easily.
 ### Rust
+ - [alphai-tui](https://github.com/makeev/alphai-tui) - Stock dashboard with quotes, candlestick charts, portfolio tracking, AI-scored news and SEC insider filings.
  - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
  - [atm](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.[http://allthemusic.info](http://allthemusic.info)
  - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history [https://atuin.sh/](https://atuin.sh/)
