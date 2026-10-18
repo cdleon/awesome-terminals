@@ -23,6 +23,7 @@ Terminal Emulators
 
 ### Linux
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [Alef](https://github.com/almodhfer/alef-term) - An Arabic-first terminal emulator written in Rust: joined letters, right-to-left layout and mixed Arabic/English lines rendered correctly, with GPU acceleration.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -74,6 +75,7 @@ Terminal Emulators
 
 ### macOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [Alef](https://github.com/almodhfer/alef-term) - An Arabic-first terminal emulator written in Rust: joined letters, right-to-left layout and mixed Arabic/English lines rendered correctly, with GPU acceleration.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - Cathode - **[DEPRECATED]** VINTAGE TERMINAL.
 - [Conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty, with Liquid Glass chrome, splittable panes, tab groups, and a command palette.
