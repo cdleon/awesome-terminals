@@ -85,6 +85,7 @@ Terminal Emulators
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Enso](https://github.com/amanfromsolan/enso) - A friendly, native macOS terminal with workspaces, a command palette, and live process icons, built on libghostty and SwiftUI.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
+- [Farol](https://github.com/snowztech/farol) - A macOS terminal built on libghostty for running coding agents side by side, with a sidebar that shows which one is working, waiting or done.
 - [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
 - [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
