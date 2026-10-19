@@ -17,6 +17,7 @@ Terminal Emulators
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS. [https://ish.app](https://ish.app)
 - [La Terminal](https://apps.apple.com/us/app/la-terminal/id1629902861) - More than just a simple command-line shell, La Terminal provides a fully-native, first-class touch experience for command-line hackers on iPhone and iPad. [https://blog.xibbon.com/welcome-to-la-terminal/](https://blog.xibbon.com/welcome-to-la-terminal/)
 - [Mobile SSH](https://mobile-ssh.github.io/) - A focused SSH, SFTP, and terminal client for iPhone and iPad with multi-session terminals, a tmux manager, Eternal Terminal resilient sessions, and dual-pane file transfer.
+- [Muxly](https://muxly.sh/) - Terminal for iPhone and iPad built around tmux control mode, turning tmux windows into native tabs and making tmux painless.
 - [Onepilot](https://onepilotapp.com) - An iOS terminal emulator with SSH client, designed for running Claude Code, Codex, and other CLI tools on remote servers. [https://onepilotapp.com](https://onepilotapp.com)
 - [TermRover](https://termrover.sh/) - A mobile terminal built to make working with tmux, Herdr, and coding agents feel great on a phone.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
