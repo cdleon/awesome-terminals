@@ -83,6 +83,7 @@ Terminal Emulators
 - [Conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty, with Liquid Glass chrome, splittable panes, tab groups, and a command palette.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
+- [DockTerm](https://github.com/munvard/dockterm) - Free, open source terminal workspace for Claude Code, with tabs, splits and grids on real PTYs. On macOS, Claude's permission prompts come down from the notch. Also runs on Windows and Linux.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Enso](https://github.com/amanfromsolan/enso) - A friendly, native macOS terminal with workspaces, a command palette, and live process icons, built on libghostty and SwiftUI.
