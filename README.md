@@ -34,6 +34,7 @@ Terminal Emulators
 - [foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator.
 - [Fyne Terminal](https://github.com/fyne-io/terminal) - A graphical terminal emulator for Linux using Fyne
 - [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [Giverny](https://github.com/y0av/giverny) - A GPU-rendered terminal in Rust, built on alacritty_terminal, for running Claude Code and Codex sessions side by side, with categorized tabs that persist across restarts, live agent state on each tab, and rate-limit meters for multiple accounts.
 - [Gnome Terminal](https://github.com/GNOME/gnome-terminal) - A terminal emulator for GNOME.
 - [Guake](http://guake-project.org/) - Guake is a top-down terminal for Gnome, and is highly inspirated by the famous terminal used in Quake.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
