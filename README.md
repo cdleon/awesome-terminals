@@ -122,6 +122,7 @@ Terminal Emulators
 
 ### Web
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
+ - [EdgeSSH](https://github.com/aozorae/EdgeSSH) - Self-hosted browser SSH terminal on Cloudflare Workers, with SFTP file management, process monitoring, and encrypted command snippets.
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
  - [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal) - library for creating web based terminals
  - [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted browser terminal (xterm.js) with shared PTY AI, SSH, and Agent HTTP API.
