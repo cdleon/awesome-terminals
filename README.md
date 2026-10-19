@@ -100,6 +100,7 @@ Terminal Emulators
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
+- [Ostgate](https://ostgate.app) - Native macOS SSH terminal tabs, SFTP and RDP for Google Compute Engine VMs without a public IP, over Identity-Aware Proxy. Paid, 7-day trial.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Sinclair](https://github.com/wess/sinclair) - A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. [https://wess.io/sinclair/](https://wess.io/sinclair/)
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
