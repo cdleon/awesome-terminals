@@ -74,6 +74,7 @@ Terminal Emulators
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 - [Zutty](https://github.com/tomscii/zutty) - Unicode terminal with correct VT emulation that uses OpenGL ES Compute Shaders.
 - [zt](https://github.com/midasdf/zt) - A minimal, ultra-fast terminal emulator written in Zig. 1,382 MB/s throughput, 3.5ms startup, 4.3MB RSS. Supports fbdev and X11 backends with 59K+ embedded glyphs.
+- [Zync](https://zync.thesudoer.in) - A local-first SSH workspace with terminal sessions, SFTP file transfer, and port forwarding in one desktop app. [https://github.com/zync-sh/zync](https://github.com/zync-sh/zync)
 
 ### macOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
@@ -119,6 +120,8 @@ Terminal Emulators
 - [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
+- [Zync](https://zync.thesudoer.in) - A local-first SSH workspace with terminal sessions, SFTP file transfer, and port forwarding in one desktop app. [https://github.com/zync-sh/zync](https://github.com/zync-sh/zync)
+
 
 ### Web
  - [AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo) - Retro looking terminal in CSS [https://crt.no/](https://crt.no/)
@@ -157,6 +160,8 @@ Terminal Emulators
 - [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
+- [Zync](https://zync.thesudoer.in) - A local-first SSH workspace with terminal sessions, SFTP file transfer, and port forwarding in one desktop app. [https://github.com/zync-sh/zync](https://github.com/zync-sh/zync)
+
 
 ## Shells
 - [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
