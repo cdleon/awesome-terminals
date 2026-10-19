@@ -401,6 +401,7 @@ Terminal Emulators
  - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
  - [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring TUI with process identification and deep packet inspection.
  - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
+ - [sparklebios](https://github.com/reactivepixels/sparklebios) - Retro 1995 PC BIOS boot screen with real system facts and health checks on every new terminal tab.
  - [spt](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
  - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts. [https://starship.rs](https://starship.rs)
  - [tldr](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
