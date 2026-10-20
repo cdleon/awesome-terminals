@@ -15,6 +15,7 @@ Terminal Emulators
 - [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - A terminal for iOS, with multiple windows
 - [Blink Shell](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) [https://blink.sh](https://blink.sh)
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS. [https://ish.app](https://ish.app)
+- [LxTerm](https://lakesnowtech.com/lxterm) - Native iOS SSH client built with SwiftUI for connecting to remote Linux servers, with private key auth and mobile control keys. [https://apps.apple.com/us/app/lxterm/id6742640756](https://apps.apple.com/us/app/lxterm/id6742640756)
 - [La Terminal](https://apps.apple.com/us/app/la-terminal/id1629902861) - More than just a simple command-line shell, La Terminal provides a fully-native, first-class touch experience for command-line hackers on iPhone and iPad. [https://blog.xibbon.com/welcome-to-la-terminal/](https://blog.xibbon.com/welcome-to-la-terminal/)
 - [Mobile SSH](https://mobile-ssh.github.io/) - A focused SSH, SFTP, and terminal client for iPhone and iPad with multi-session terminals, a tmux manager, Eternal Terminal resilient sessions, and dual-pane file transfer.
 - [Muxly](https://muxly.sh/) - Terminal for iPhone and iPad built around tmux control mode, turning tmux windows into native tabs and making tmux painless.
