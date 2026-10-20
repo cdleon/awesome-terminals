@@ -79,6 +79,7 @@ Terminal Emulators
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Alef](https://github.com/almodhfer/alef-term) - An Arabic-first terminal emulator written in Rust: joined letters, right-to-left layout and mixed Arabic/English lines rendered correctly, with GPU acceleration.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
+- [buffTerm](https://github.com/shaguocgl/buff-term) - SSH/SFTP server manager with a built-in AI agent and outbound MCP server (mac, win). [https://shaguocgl.github.io/buff-term-site/](https://shaguocgl.github.io/buff-term-site/)
 - Cathode - **[DEPRECATED]** VINTAGE TERMINAL.
 - [Conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty, with Liquid Glass chrome, splittable panes, tab groups, and a command palette.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
@@ -132,6 +133,7 @@ Terminal Emulators
 - [AbsoluteTelnet/SSH](https://www.celestialsoftware.net/) - Commercial Windows SSH, SFTP, Telnet, serial, and terminal emulation client with smart-card authentication, SSH certificates, and Unicode support.
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
+- [buffTerm](https://github.com/shaguocgl/buff-term) - SSH/SFTP server manager with a built-in AI agent and outbound MCP server (mac, win). [https://shaguocgl.github.io/buff-term-site/](https://shaguocgl.github.io/buff-term-site/)
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.
 - [Console](https://sourceforge.net/projects/console/) - Console is a Windows console window enhancement.
