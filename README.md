@@ -180,6 +180,7 @@ Terminal Emulators
  - [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
  - [gg](https://github.com/qw3rtman/gg) - **[DEPRECATED]** Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts [https://git.io/gitgoodies](https://git.io/gitgoodies)
  - [has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path.
+ - [iglass](https://github.com/vukkt/iglass) - Liquid Glass–inspired theme and CLI for iTerm2, Ghostty and kitty. [https://vukkt.github.io/iglass/](https://vukkt.github.io/iglass/)
  - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
  - [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
  - [prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read. [http://denilsonsa.github.io/prettyping](http://denilsonsa.github.io/prettyping)
