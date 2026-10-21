@@ -290,6 +290,7 @@ Terminal Emulators
  - [AgentBox](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each in its own sandboxed VM, launched in detachable tmux sessions.
  - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
  - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6.
+ - [Easy SSH](https://github.com/dhlptx00/EasySSH) - SSH client in a VS Code or Cursor terminal tab, with saved connections, jump hosts, and Ctrl+click to download or edit remote files.
  - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
  - [football](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football.
  - [git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
