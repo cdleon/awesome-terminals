@@ -189,6 +189,7 @@ Terminal Emulators
  - [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
  - [Sensible Bash](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults. [https://github.com/mrzool/bash-sensible/blob/master/sensible.bash](https://github.com/mrzool/bash-sensible/blob/master/sensible.bash)
  - [slacktee](https://github.com/coursehero/slacktee) - slacktee is a bash script that works like tee command. Instead of writing the standard input to files, slacktee posts it to Slack.
+ - [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - Benchmarks a Linux server in about a minute: sysbench CPU and memory, plus fio 4K random read and write IOPS. Sends nothing anywhere unless you pass an upload token.
 ### C
  - [afetch](https://github.com/13-CF/afetch) - Simple system info written in C
  - [ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. [https://geoff.greer.fm/ag/](https://geoff.greer.fm/ag/)
