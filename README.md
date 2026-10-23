@@ -95,6 +95,7 @@ Terminal Emulators
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [jebi](https://github.com/jebi-sh/jebi) - jebi is a modern terminal emulator for Mac with built-in local AI.
 - [Kaku](https://github.com/tw93/Kaku) - An AI-friendly Mac terminal with sensible defaults, ready out of the box, built on WezTerm. [https://kaku.fun](https://kaku.fun)
+- [kip](https://github.com/densharik/kip) - A Rust terminal for running many Claude Code sessions side by side: a sidebar shows which agent is working or done and how full each context window is, idle sessions sleep to free RAM, and past conversations are searchable.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
@@ -142,6 +143,7 @@ Terminal Emulators
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
+- [kip](https://github.com/densharik/kip) - A Rust terminal for running many Claude Code sessions side by side: a sidebar shows which agent is working or done and how full each context window is, idle sessions sleep to free RAM, and past conversations are searchable.
 - [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 - [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
