@@ -27,6 +27,7 @@ Terminal Emulators
 - [Alef](https://github.com/almodhfer/alef-term) - An Arabic-first terminal emulator written in Rust: joined letters, right-to-left layout and mixed Arabic/English lines rendered correctly, with GPU acceleration.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
+- [Detour](https://github.com/INotSleep/Detour) - Open-source SSH client with SFTP, tunnels and team sharing of hosts and keys through your own Git repository, end-to-end encrypted. [https://inotsleep.com/projects/detour/wiki](https://inotsleep.com/projects/detour/wiki)
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Darktile](https://github.com/liamg/darktile) - **[DEPRECATED]** A GPU rendered terminal emulator designed for tiling window managers.
@@ -83,6 +84,7 @@ Terminal Emulators
 - [Conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty, with Liquid Glass chrome, splittable panes, tab groups, and a command palette.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
+- [Detour](https://github.com/INotSleep/Detour) - Open-source SSH client with SFTP, tunnels and team sharing of hosts and keys through your own Git repository, end-to-end encrypted. [https://inotsleep.com/projects/detour/wiki](https://inotsleep.com/projects/detour/wiki)
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Enso](https://github.com/amanfromsolan/enso) - A friendly, native macOS terminal with workspaces, a command palette, and live process icons, built on libghostty and SwiftUI.
@@ -137,6 +139,7 @@ Terminal Emulators
 - [Console](https://sourceforge.net/projects/console/) - Console is a Windows console window enhancement.
 - [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of Console project.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
+- [Detour](https://github.com/INotSleep/Detour) - Open-source SSH client with SFTP, tunnels and team sharing of hosts and keys through your own Git repository, end-to-end encrypted. [https://inotsleep.com/projects/detour/wiki](https://inotsleep.com/projects/detour/wiki)
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
