@@ -396,6 +396,7 @@ Terminal Emulators
  - [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
  - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
  - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
+ - [pohunek](https://github.com/zajca/pohunek) - Per-machine daemon that keeps Codex, Claude Code and Hermes Agent sessions alive across disconnects, with a JSON CLI to drive them.
  - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
  - [rg](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
  - [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
