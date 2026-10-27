@@ -78,6 +78,7 @@ Terminal Emulators
 ### macOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Alef](https://github.com/almodhfer/alef-term) - An Arabic-first terminal emulator written in Rust: joined letters, right-to-left layout and mixed Arabic/English lines rendered correctly, with GPU acceleration.
+- [AITerm](https://ai-term.com/?ref=awesome-terminals) - A native macOS terminal with AI built into the command loop: describe a task, review the suggested command, and approve it before it runs. Works with local Ollama models or your own API keys.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - Cathode - **[DEPRECATED]** VINTAGE TERMINAL.
 - [Conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty, with Liquid Glass chrome, splittable panes, tab groups, and a command palette.
