@@ -270,6 +270,7 @@ Terminal Emulators
  - [ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go.
  - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
  - [rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH. [http://www.rtop-monitor.org/](http://www.rtop-monitor.org/)
+ - [RunWisp](https://github.com/runwisp/runwisp) - Cron jobs and long-running processes in one binary, with a TUI and web UI for live logs, run history and failures. [https://runwisp.com](https://runwisp.com)
  - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
  - [sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. [https://sampler.dev](https://sampler.dev)
  - [scc](https://github.com/boyter/scc) -  Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go.
