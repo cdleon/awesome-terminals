@@ -90,6 +90,7 @@ Terminal Emulators
 - [Farol](https://github.com/snowztech/farol) - A macOS terminal built on libghostty for running coding agents side by side, with a sidebar that shows which one is working, waiting or done.
 - [Fig](https://fig.io/) - **[DEPRECATED]** The next-generation command line. The source of truth for your team’s secrets, scripts, and SSH credentials.
 - [Ghostty](https://ghostty.org/) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) - A live-preview editor for Ghostty config: themes, colours, fonts, cursor and window settings.
 - [Go2Shell](https://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [iTerm2](https://github.com/gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
