@@ -58,6 +58,7 @@ Terminal Emulators
 - [Termit](https://github.com/nonstop/termit) - Terminal emulator based on VTE library with Lua scripting.
 - [Termite](https://github.com/thestinger/termite/) - **[OBSOLETED BY ALACRITTY]** A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
+- [TildaZ](https://github.com/ensky0/tildaz) - A native Quake-style drop-down terminal for Linux, macOS, and Windows, written in Zig on libghostty-vt with GPU rendering. [https://tildaz.dev/](https://tildaz.dev/)
 - [Tilix](https://github.com/gnunn1/tilix) - Tilix is an advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines. [https://gnunn1.github.io/tilix-web/](https://gnunn1.github.io/tilix-web/)
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
@@ -108,6 +109,7 @@ Terminal Emulators
 - [Terminal Candy](https://terminalcandy.com) - A native macOS (Apple Silicon) skinnable terminal that composites a live shell behind any image, with alerts when AI coding agents finish or need input.
 - [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
+- [TildaZ](https://github.com/ensky0/tildaz) - A native Quake-style drop-down terminal for Linux, macOS, and Windows, written in Zig on libghostty-vt with GPU rendering. [https://tildaz.dev/](https://tildaz.dev/)
 - [TotalTerminal](https://totalterminal.binaryage.com/) - A system-wide terminal available on a hot-key. TotalTerminal is a plugin for Terminal.app.
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
@@ -149,6 +151,7 @@ Terminal Emulators
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
+- [TildaZ](https://github.com/ensky0/tildaz) - A native Quake-style drop-down terminal for Linux, macOS, and Windows, written in Zig on libghostty-vt with GPU rendering. [https://tildaz.dev/](https://tildaz.dev/)
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
 - [Vanitty](https://github.com/stasadance/vanitty) - A lightweight Rust and Tauri rewrite of Hyper, rendered with xterm.js and WebGL. Imports Hyper configs and themes. [https://vanitty.dev](https://vanitty.dev)
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
