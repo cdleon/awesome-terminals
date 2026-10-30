@@ -432,6 +432,7 @@ Terminal Emulators
  - [termtile](https://github.com/apaszke/termtile) - Terminal window manager for OS X.
  - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 ### Swift
+ - [Kilobat CLI](https://github.com/seifip/kilobat-cli) - macOS network monitoring and diagnostics with an interactive terminal menu, live traffic monitor, JSON output and a local MCP server.
  - [trash](https://github.com/sindresorhus/macos-trash) - Move files and folders to the trash.
 
 ## Dotfiles
