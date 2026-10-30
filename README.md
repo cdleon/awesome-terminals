@@ -42,6 +42,7 @@ Terminal Emulators
 - [kiro](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
+- [nare](https://github.com/nerdyslacker/nare) - A GPU-accelerated terminal emulator written in Odin.
 - [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
 - [OdyTTY](https://github.com/ghreprimand/odytty) - A GPU-rendered terminal emulator for Linux (Rust/wgpu) with a theme builder, 100 themes, bloom/CRT/retro effects, and live in-app config. [https://odytty.unfinished-works.com/](https://odytty.unfinished-works.com/)
 - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
