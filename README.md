@@ -6,6 +6,7 @@ Terminal Emulators
 - [Mobile SSH](https://mobile-ssh.github.io/) - A focused SSH, SFTP, and terminal client for Android with multi-session terminals, a tmux manager, Eternal Terminal resilient sessions, and dual-pane file transfer.
 - [TermRover](https://termrover.sh/) - A mobile terminal built to make working with tmux, Herdr, and coding agents feel great on a phone.
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
+- [wowTerminal](https://play.google.com/store/apps/details?id=com.oopnwow.wowterminal) - SSH and SFTP client with an AI assistant that reads the terminal and works with local LLMs; same app as the open-source desktop version. [https://github.com/cuter74-dev/wowTerminal](https://github.com/cuter74-dev/wowTerminal)
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### HarmonyOS
@@ -20,6 +21,7 @@ Terminal Emulators
 - [Muxly](https://muxly.sh/) - Terminal for iPhone and iPad built around tmux control mode, turning tmux windows into native tabs and making tmux painless.
 - [Onepilot](https://onepilotapp.com) - An iOS terminal emulator with SSH client, designed for running Claude Code, Codex, and other CLI tools on remote servers. [https://onepilotapp.com](https://onepilotapp.com)
 - [TermRover](https://termrover.sh/) - A mobile terminal built to make working with tmux, Herdr, and coding agents feel great on a phone.
+- [wowTerminal](https://apps.apple.com/app/id6783178766) - SSH and SFTP client for iPhone and iPad with an AI assistant that reads the terminal and works with local LLMs. [https://github.com/cuter74-dev/wowTerminal](https://github.com/cuter74-dev/wowTerminal)
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### Linux
@@ -66,6 +68,7 @@ Terminal Emulators
 - [Wayst](https://github.com/91861/wayst) - A simple terminal emulator.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted web terminal where AI shares your PTY session; in-terminal `#` chat, SSH, and an HTTP Agent API for remote ops.
+- [wowTerminal](https://github.com/cuter74-dev/wowTerminal) - Open-source terminal with an AI assistant that reads the current tab and suggests commands you send yourself, plus an SSH host manager, dual-pane SFTP and local LLM support (Ollama, any OpenAI-compatible server). [https://wowterminal.oopnwow.com](https://wowterminal.oopnwow.com/)
 - [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 - [xTerm](http://invisible-island.net/xterm/) - The xterm program is a terminal emulator for the X Window System.
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
@@ -116,6 +119,7 @@ Terminal Emulators
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted web terminal where AI shares your PTY session; in-terminal `#` chat, SSH, and an HTTP Agent API for remote ops.
+- [wowTerminal](https://github.com/cuter74-dev/wowTerminal) - Open-source terminal with an AI assistant that reads the current tab and suggests commands you send yourself, plus an SSH host manager, dual-pane SFTP and local LLM support (Ollama, any OpenAI-compatible server). [https://wowterminal.oopnwow.com](https://wowterminal.oopnwow.com/)
 - [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc
 - [ZOC](https://www.emtec.com/zoc/index.html) - SSH Client and Terminal Emulator for macOS and Windows
@@ -153,6 +157,7 @@ Terminal Emulators
 - [Vanitty](https://github.com/stasadance/vanitty) - A lightweight Rust and Tauri rewrite of Hyper, rendered with xterm.js and WebGL. Imports Hyper configs and themes. [https://vanitty.dev](https://vanitty.dev)
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
 - [Windows Terminal](https://github.com/microsoft/terminal) -  The new Windows Terminal, and the original Windows console host - all in the same place!
+- [wowTerminal](https://github.com/cuter74-dev/wowTerminal) - Open-source terminal with an AI assistant that reads the current tab and suggests commands you send yourself, plus an SSH host manager, dual-pane SFTP and local LLM support (Ollama, any OpenAI-compatible server). [https://wowterminal.oopnwow.com](https://wowterminal.oopnwow.com/)
 - [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL. It has the look and feel of PuTTY
 - [Yaw](https://yaw.sh) - A cross-platform terminal with built-in file editor, SSH client, connection manager, and AI assistant.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
