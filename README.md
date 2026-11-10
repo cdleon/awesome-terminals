@@ -42,6 +42,7 @@ Terminal Emulators
 - [kiro](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
+- [Muxflow](https://github.com/gal064/muxflow) - A remote-first tmux IDE for coding agents, with agent notifications on desktop and phone, voice replies and multi-host SSH.
 - [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
 - [OdyTTY](https://github.com/ghreprimand/odytty) - A GPU-rendered terminal emulator for Linux (Rust/wgpu) with a theme builder, 100 themes, bloom/CRT/retro effects, and live in-app config. [https://odytty.unfinished-works.com/](https://odytty.unfinished-works.com/)
 - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
@@ -99,6 +100,7 @@ Terminal Emulators
 - [MOLTamp](https://moltamp.com/) - A skinnable cockpit shell that wraps AI terminal agents (Claude Code, Codex CLI, Gemini CLI, Aider, Cursor CLI) in a themeable UI with widgets, audio visualizers, and a community marketplace.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal, supporting 24-bit color, standard graphics protocols and iTerm2 image sequences and color schemes.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
+- [Muxflow](https://github.com/gal064/muxflow) - A remote-first tmux IDE for coding agents, with agent notifications on desktop and phone, voice replies and multi-host SSH.
 - [Nterm](https://nterm.app) - The terminal built for Node.js developers. A modern terminal with built-in Node.js version management.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [Sinclair](https://github.com/wess/sinclair) - A GPU-accelerated terminal emulator with tabs, splits, themes, kitty keyboard protocol, and shell integration. [https://wess.io/sinclair/](https://wess.io/sinclair/)
