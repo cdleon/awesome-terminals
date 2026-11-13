@@ -112,6 +112,7 @@ Terminal Emulators
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Vanitty](https://github.com/stasadance/vanitty) - A lightweight Rust and Tauri rewrite of Hyper, rendered with xterm.js and WebGL. Imports Hyper configs and themes. [https://vanitty.dev](https://vanitty.dev)
+- [vsux](https://github.com/shadowDragons/vsux) - Lightweight native Mac editor built around project terminals, with split panes, Git review, saved commands and background services. [https://vsux.sphrag.com/en/](https://vsux.sphrag.com/en/)
 - [Warp](https://www.warp.dev/) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
