@@ -279,6 +279,7 @@ Terminal Emulators
  - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark.
  - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking.
  - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview.
+ - [weaver](https://github.com/medilies/weaver) - Open a project's tmux session with one command, from a YAML file: windows, panes and their commands, with a browser that draws each window before it opens.
  - [webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC [https://maxmcd.github.io/webtty/](https://maxmcd.github.io/webtty/)
  - [wego](https://github.com/schachmat/wego) -  weather app for the terminal.
  - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal. [http://wtfutil.com](http://wtfutil.com)
