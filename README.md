@@ -76,6 +76,7 @@ Terminal Emulators
 - [zt](https://github.com/midasdf/zt) - A minimal, ultra-fast terminal emulator written in Zig. 1,382 MB/s throughput, 3.5ms startup, 4.3MB RSS. Supports fbdev and X11 backends with 59K+ embedded glyphs.
 
 ### macOS
+- [AITerm](https://ai-term.com/) - A native Apple Silicon terminal with an AI command loop: describe a task in plain English, review the suggested command and its risk badge, then run it. Works with local Ollama or your own API key.
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Alef](https://github.com/almodhfer/alef-term) - An Arabic-first terminal emulator written in Rust: joined letters, right-to-left layout and mixed Arabic/English lines rendered correctly, with GPU acceleration.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
