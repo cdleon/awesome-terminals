@@ -147,6 +147,7 @@ Terminal Emulators
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+- [SplitNest](https://github.com/chafian/splitnest) - Windows terminal workspace with split PowerShell and WSL panes, built for running AI coding agents.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
