@@ -132,6 +132,7 @@ Terminal Emulators
 - [AbsoluteTelnet/SSH](https://www.celestialsoftware.net/) - Commercial Windows SSH, SFTP, Telnet, serial, and terminal emulation client with smart-card authentication, SSH certificates, and Unicode support.
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
+- [ButtonsCLI Native](https://buttonscli.com/) - A Rust terminal workspace with auto tiled panes, a full UI (still lean/low ram), AI gen themes & shaders in-app, and optional AI assistance. Cross platform, but Windows is prioritized.
 - [Cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.
 - [Console](https://sourceforge.net/projects/console/) - Console is a Windows console window enhancement.
