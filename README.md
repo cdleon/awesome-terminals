@@ -137,6 +137,7 @@ Terminal Emulators
 - [Console](https://sourceforge.net/projects/console/) - Console is a Windows console window enhancement.
 - [ConsoleZ](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of Console project.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
+- [easy-ssh](https://github.com/taimoorKVD/easy-ssh) - Free, open-source SSH and SFTP client for Windows with a terminal and file manager on the same connection. [https://easyssh.thebetawebsite.com/](https://easyssh.thebetawebsite.com/)
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [electerm](https://github.com/electerm/electerm) - Terminal / ssh / sftp / ftp / telnet / serialport / RDP / VNC / Spice client(linux, mac, win). [https://electerm.org/](https://electerm.org/)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
