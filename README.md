@@ -6,6 +6,7 @@ Terminal Emulators
 - [Mobile SSH](https://mobile-ssh.github.io/) - A focused SSH, SFTP, and terminal client for Android with multi-session terminals, a tmux manager, Eternal Terminal resilient sessions, and dual-pane file transfer.
 - [TermRover](https://termrover.sh/) - A mobile terminal built to make working with tmux, Herdr, and coding agents feel great on a phone.
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
+- [Wardterm](https://wardterm.com) - SSH client for iPhone, iPad, Mac, Android and Linux with SFTP, Mosh, Telnet and an end-to-end encrypted vault for servers, keys and passwords.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### HarmonyOS
@@ -20,6 +21,7 @@ Terminal Emulators
 - [Muxly](https://muxly.sh/) - Terminal for iPhone and iPad built around tmux control mode, turning tmux windows into native tabs and making tmux painless.
 - [Onepilot](https://onepilotapp.com) - An iOS terminal emulator with SSH client, designed for running Claude Code, Codex, and other CLI tools on remote servers. [https://onepilotapp.com](https://onepilotapp.com)
 - [TermRover](https://termrover.sh/) - A mobile terminal built to make working with tmux, Herdr, and coding agents feel great on a phone.
+- [Wardterm](https://wardterm.com) - SSH client for iPhone, iPad, Mac, Android and Linux with SFTP, Mosh, Telnet and an end-to-end encrypted vault for servers, keys and passwords.
 - [Yetty](https://github.com/zokrezyl/yetty) - New generation terminal with remote graphics, remote GUI, rich scrolling buffer, plots, diagrams, etc.
 
 ### Linux
@@ -62,6 +64,7 @@ Terminal Emulators
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Vanitty](https://github.com/stasadance/vanitty) - A lightweight Rust and Tauri rewrite of Hyper, rendered with xterm.js and WebGL. Imports Hyper configs and themes. [https://vanitty.dev](https://vanitty.dev)
+- [Wardterm](https://wardterm.com) - SSH client for iPhone, iPad, Mac, Android and Linux with SFTP, Mosh, Telnet and an end-to-end encrypted vault for servers, keys and passwords.
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wayst](https://github.com/91861/wayst) - A simple terminal emulator.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
@@ -112,6 +115,7 @@ Terminal Emulators
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
 - [Upterm](https://github.com/railsware/upterm) - **[DEPRECATED]** A terminal emulator for the 21st century.
 - [Vanitty](https://github.com/stasadance/vanitty) - A lightweight Rust and Tauri rewrite of Hyper, rendered with xterm.js and WebGL. Imports Hyper configs and themes. [https://vanitty.dev](https://vanitty.dev)
+- [Wardterm](https://wardterm.com) - SSH client for iPhone, iPad, Mac, Android and Linux with SFTP, Mosh, Telnet and an end-to-end encrypted vault for servers, keys and passwords.
 - [Warp](https://www.warp.dev/) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 - [Wave Terminal](https://www.waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [Wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust. [https://wezfurlong.org/wezterm/](https://wezfurlong.org/wezterm/)
