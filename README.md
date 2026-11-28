@@ -14,6 +14,7 @@ Terminal Emulators
 ### iOS
 - [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - A terminal for iOS, with multiple windows
 - [Blink Shell](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) [https://blink.sh](https://blink.sh)
+- [Cawide](https://cawide.dev) - Native iPhone app and open source CLI to run Claude Code, Codex, OMP and OpenCode on your computer and control them from your phone.
 - [ish](https://github.com/tbodt/ish) - Linux shell for iOS. [https://ish.app](https://ish.app)
 - [La Terminal](https://apps.apple.com/us/app/la-terminal/id1629902861) - More than just a simple command-line shell, La Terminal provides a fully-native, first-class touch experience for command-line hackers on iPhone and iPad. [https://blog.xibbon.com/welcome-to-la-terminal/](https://blog.xibbon.com/welcome-to-la-terminal/)
 - [Mobile SSH](https://mobile-ssh.github.io/) - A focused SSH, SFTP, and terminal client for iPhone and iPad with multi-session terminals, a tmux manager, Eternal Terminal resilient sessions, and dual-pane file transfer.
