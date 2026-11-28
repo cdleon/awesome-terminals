@@ -105,6 +105,7 @@ Terminal Emulators
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
 - [Termbar](https://github.com/vetelko/termbar) - TermBar puts the command line in your Menubar, allowing you to free up screen space, and use it with convinience.
 - [TermCanvas](https://github.com/lout33/termcanvas) - macOS desktop app that arranges tmux-backed terminal sessions as draggable nodes on an infinite canvas for steering multiple AI coding agents.
+- [Terminal Assistance](https://github.com/zzamjak-cloud/TerminalAssistance) - Lightweight Tauri terminal workspace for running AI coding agents (Claude Code, Codex) across multiple projects, with per-session status, a dashboard of all sessions, command presets, and git worktrees. [https://zzamjak-cloud.github.io/TerminalAssistance/](https://zzamjak-cloud.github.io/TerminalAssistance/)
 - [Terminal Candy](https://terminalcandy.com) - A native macOS (Apple Silicon) skinnable terminal that composites a live shell behind any image, with alerts when AI coding agents finish or need input.
 - [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Cross-project multi-terminal desktop workspace for local development stacks, with real PTYs, saved launch commands, and project inspection.
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries. [https://www.enlightenment.org/about-terminology](https://www.enlightenment.org/about-terminology)
@@ -148,6 +149,7 @@ Terminal Emulators
 - [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus) [https://tabby.sh/](https://tabby.sh/)
+- [Terminal Assistance](https://github.com/zzamjak-cloud/TerminalAssistance) - Lightweight Tauri terminal workspace for running AI coding agents (Claude Code, Codex) across multiple projects, with per-session status, a dashboard of all sessions, command presets, and git worktrees. [https://zzamjak-cloud.github.io/TerminalAssistance/](https://zzamjak-cloud.github.io/TerminalAssistance/)
 - [Terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries [http://terminolo.gy/)](http://terminolo.gy/)
 - [tty7](https://github.com/l0ng-ai/tty7) - A GPU-rendered, daemon-backed terminal in pure Rust; a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux). Built on Zed's gpui and Alacritty's VT core.
 - [Vanitty](https://github.com/stasadance/vanitty) - A lightweight Rust and Tauri rewrite of Hyper, rendered with xterm.js and WebGL. Imports Hyper configs and themes. [https://vanitty.dev](https://vanitty.dev)
